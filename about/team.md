@@ -1,7 +1,7 @@
 # Leadership Team 
 
 ### Daniela Saderi, Ph.D. – Co-founder, Project and Fundraising Lead  
-<img src="images/daniela2_bw.jpg" width="200">
+![Daniela](../images/daniela2_bw.jpg)
 
 Daniela is a Mozilla Fellow for Science 2018/2019. At PREreview she leads the development of the platform and is 
 responsible for fundraising and the sustainability of the project. Daniela has recently earned a Ph.D. in neuroscience at 
