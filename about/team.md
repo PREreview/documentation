@@ -1,6 +1,6 @@
 # Leadership Team 
 
-### Daniela Saderi, Ph.D. – Co-founder, Platform and Fundraising Lead  
+### Daniela Saderi, Ph.D. – Co-Founder, Platform and Fundraising Lead  
 ![Daniela](../images/daniela2_bw.jpg)
 
 Daniela is a Mozilla Fellow for Science 2018/2019. At PREreview she leads the development of the platform and is 
@@ -11,7 +11,7 @@ within and across teams. Daniela enjoys cooking and eating good vegetarian food 
 biographies and up-lifting books with her two black cats on her lap.
 
 
-### Samantha Hindle, Ph.D. – Co-founder, Peer Review Training and Parterships Lead  
+### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Parterships Lead  
 ![Sam](../images/sam2_bw.jpg)
 
 Sam is content lead at the leading preprint server for the life sciences, [bioRxiv](https://www.biorxiv.org/). At PREreview she leads the
@@ -28,6 +28,13 @@ scientists how to use improv skills as a way to better communicate their science
 
 
 # Advisory Committee
+
+[TBD]
+
+# Fiscal Sponsor
+
+[Code for Science & Society (CS&S)](https://codeforscience.org/) is our fiscal sponsor. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in managing partnerships with scientists and institutions, connecting with the larger open scholarship community, fundraising, as well as hiring and management of staff. 
+
 
 
 
