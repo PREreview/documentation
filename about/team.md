@@ -1,6 +1,6 @@
 # Leadership Team 
 
-### Daniela Saderi, Ph.D. – Co-founder, Project and Fundraising Lead  
+### Daniela Saderi, Ph.D. – Co-founder, Platform and Fundraising Lead  
 ![Daniela](../images/daniela2_bw.jpg)
 
 Daniela is a Mozilla Fellow for Science 2018/2019. At PREreview she leads the development of the platform and is 
@@ -12,14 +12,14 @@ biographies and up-lifting books with her two black cats on her lap.
 
 
 ### Samantha Hindle, Ph.D. – Co-founder, Peer Review Training and Parterships Lead  
-<img src="images/sam2_bw.jpg" width="200">
+![Sam](../images/sam2_bw.jpg)
 
 Sam is content lead at the leading preprint server for the life sciences, [bioRxiv](https://www.biorxiv.org/). At PREreview she leads the
 training program and is the primary contact for our partners. TBC
 
 
 ### Monica Granados, Ph.D. – Community Building and Outreach Lead  
-<img src="images/Monica_bw.png" width="200">
+![Monica](../images/Monica_bw.png)
 
 Monica joined the PREreview team in January 2018, first as a member of the Advisory Committee, and then as the lead of community building and outreach. She is a Mitacs Canadian Science Policy Fellow working as Policy Analyst at Environment and Climate Change Canada in open science. 
 As a food web ecologist, she has been dedicated to using the current knowledge around food webs to monitor changes in freshwater 
