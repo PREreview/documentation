@@ -1,6 +1,6 @@
 # Live-streamed PREreview journal clubs
  
-Live-streamed preprint journal clubs are topic-centered, interactive preprint journal clubs that are live-streamed via videoconference. These events are designed to be inclusive of all researchers by allowing structured and constructive discussions around preprints and encouraging diverse methods of participation. Researchers from all over the world can join to build their network, meet globally-renowned experts, and collaborate on improving a preprint. 
+Live-streamed preprint journal clubs are topic-centered, interactive preprint journal clubs that are live-streamed via videoconference. These events are designed to be inclusive of all people by allowing structured and constructive discussions around preprints and encouraging diverse methods of participation. Researchers – and anyone interested in joining the discussion – from all over the world can join to build their network, meet globally-renowned experts, and collaborate on improving a preprint. 
 
 You can request our help to organize a live-streamed PREreview journal club by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdlpfxK0XEeVbUD7aHBKLf6g7rOups-uS2ZytpDKdHNBHwNZg/viewform).
 
