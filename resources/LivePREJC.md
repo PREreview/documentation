@@ -40,7 +40,7 @@ to request our support to run the LivePREJC.
 
 4. If you are a preprint author, you will have the option to participate to the discussion, you will be asked to please remain in ‘listening mode’ – except when asked a question by participants - until the last 10 minutes reserved for this discussion. This will encourage participants to express their constructive feedback freely and stimulate a productive discussion. 
 
-5. If are NOT a preprint author, we will invite you to contact the corresponding author(s) and let them know about the upcoming LivePREJC. If you don't feel comfortable doing it, please let us know and we will do it on your behalf. Letting the preprint authors know that there will be a live-streamed discussion about their preprint is not necessary, but it is recommended. You can also choose to invite them to join the call.
+5. If you are NOT a preprint author, we will invite you to contact the corresponding author(s) and let them know about the upcoming LivePREJC. If you don't feel comfortable doing it, please let us know and we will do it on your behalf. Letting the preprint authors know that there will be a live-streamed discussion about their preprint is not necessary, but it is recommended. You can also choose to invite them to join the call.
 
 6. Should you desire to, we will help you format and write the prereview, and share it on the PREreview platform.
     
