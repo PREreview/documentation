@@ -1,11 +1,9 @@
-# How to write a PREreview
+# How to write a prereview
 
 At PREreview, we believe *all* researchers should be able to engage in honest and respectful conversations around emerging scientific 
 output. Peer review is a foundamental aspect of being a researcher. However, formal training in it is uncommon and varies in quality. 
 
-ADD PARAGRAPH ABOUT SHADOW PEER REVIEW AND CITE GARY MCDOWWELL ET AL. 2019
-
-To help you with the composition of your PREreview, here are 5 basic tips:
+To help you with the composition of your prereview, here are 5 basic tips:
 
 1. Be respectful
 2. Be constructive
