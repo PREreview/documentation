@@ -11,7 +11,7 @@ within and across teams. Daniela enjoys cooking and eating good vegetarian food 
 biographies and up-lifting books with her two black cats on her lap.
 
 
-### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training, Content, and Partnerships Lead  
+### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Partnerships Lead  
 ![Sam](../images/sam_bw_small.jpg)
 
 Sam is the Content Lead at [bioRxiv](https://www.biorxiv.org/) - the leading preprint server for the life sciences - where she guides and supports the editorial team, helps to implement innovative updates to the server, and engages in advocacy efforts to promote equity in access to scientific discoveries through preprints. At PREreview she manages the peer review training program and resource generation, and is the primary lead for stakeholder relationships. Sam is also a Neuroscientist and master of _Drosophila_ brain dissections. When she is not immersed in the world of preprints, she will likely have her camera in hand trying to frame a beautiful landscape scene, or reflecting on ways of being more present and other-centered.
