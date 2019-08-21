@@ -3,7 +3,7 @@
 ### Daniela Saderi, Ph.D. – Co-Founder, Project Director
 ![Daniela](../images/daniela_bw_small.jpg)
 
-Daniela is a Mozilla Fellow for Science 2018/2019. Daniela has recently earned a Ph.D. in neuroscience at Oregon Health and Science University, in Portland OR, USA. During her time as a student, she became increasingly interested in how open practices can be used to empower early-career researchers in taking ownership over their work, and to facilitate collaborations within and across teams. Daniela enjoys cooking and eating good vegetarian food (she is Italian, after all!), rock climbing, and reading biographies and up-lifting books with her two black cats on her lap.  
+Daniela was a Mozilla Fellow for Science in 2018/2019. She has recently earned a Ph.D. in neuroscience at Oregon Health and Science University, in Portland OR, USA. During her time as a student, she became increasingly interested in how open practices can be used to empower early-career researchers in taking ownership over their work, and to facilitate collaborations within and across teams. Daniela enjoys cooking and eating good vegetarian food (she is Italian, after all!), rock climbing, and reading biographies and up-lifting books with her two black cats on her lap.  
 Email: [daniela@prereview.org](daniela@prereview.org)
 
 
