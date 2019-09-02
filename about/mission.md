@@ -76,7 +76,11 @@ Email: [monica@prereview.org](monica@prereview.org)
 
 [Code for Science & Society (CS&S)](https://codeforscience.org/) is our fiscal sponsor. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in managing partnerships with scientists and institutions, connecting with the larger open scholarship community, fundraising, as well as hiring and management of staff. 
 
+# Funders
 
+This new PREreview platform was funded by the [Alfred P. Sloan Foundation](https://sloan.org/grant-detail/8729) and [Mozilla](https://foundation.mozilla.org/en/) via Daniela's Mozilla Fellowship 2018/2019. 
+
+We also received funding from the [Wellcome Trust](https://wellcome.ac.uk/funding/schemes/open-research-fund) for a project in collaboration with the non-profit organization [Outrbreak Science](http://outbreakscience.org/). We are currently developing an extension of the PREreview platform to allow for the rapid review of preprints in the context of public health crises. 
 
 ## References
 <sup>1</sup>Ronald D. Vale. Accelerating scientific publication in biology. Proceedings of the National Academy of Sciences 112, 13439–13446 Proceedings of the National Academy of Sciences, 2015  
