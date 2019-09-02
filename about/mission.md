@@ -1,6 +1,14 @@
 # Our Mission
-PREreview seeks to diversify peer review in the academic community by crowdsourcing feedback to preprints to improve the 
-quality of published scientific output, and to train early-career researchers (ECRs) in how to review other's work.
+The core of PREreview’s mission is to support and drive the cultural change that will lead to the growth of a diverse community of trained peer reviewers. This community has the power to provide feedback at a point in the publication process when it matters. We believe preprints offer an invaluable opportunity for researchers to share the outputs of their work freely and early enough to benefit from community feedback. 
+
+We are trying to tackle three major problems: 
+
+1) **Lack of feedback to preprints** (on bioRxiv the public comments are limited to about 10% of the total preprints).
+
+2) **Early-career researchers (ECRs)  (i.e., students, postdoctoral researchers, junior principal investigators), researchers from marginalized communities or from less known research institutions are often not involved in the peer review process.** The result is that the decision over what is published and shared openly with the community is in the hands of relatively homogeneous groups of researchers who are known to the journal editors. 
+
+3) **Formal peer review training for ECRs is rare and varies in quality.** In our own community opinion survey, we found that only 18% of the respondents had received peer review training, even though 72% had contributed to the peer review process. This suggests that very few scientists are trained when they write their first review – and even when they are, the training may vary greatly in quality. 
+At PREreview, we believe preprints offer an opportunity for every researcher to contribute to making science better and to build their skills as peer reviewers. We are now developing a peer review mentoring program based on a cohort learning model that will help with exactly that.
 
 ## Why preprints?
 Over the past 30 years, publishing in the biological sciences has become a much lengthier process<sup>1</sup>. One way to separate 
@@ -8,8 +16,7 @@ the sharing of scientific outputs from quality evaluation expressed purely by th
 your manuscript as a preprint. 
 
 [Preprints](https://www.youtube.com/watch?v=2zMgY8Dx9co) are early, yet complete, versions of scientific manuscripts made freely available online before journal-organized peer review. 
-They are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that 
-they become available to the whole web community within 1-2 days from submission.  
+They are often the same manuscripts that are submitted to a journal for peer review, but are stored on freely accessible public servers such that they become available to the whole web community within 1-2 days from submission.  
 
 Preprints offer multiple opportunities to both train and diversify the pool of peer reviewers:  
 1) Research is available immediately, instead of being delayed for months; 2) community peer review allows for the feedback of a 
@@ -17,31 +24,59 @@ larger and more diverse pool of experts;
 3) Writing and sharing reviews helps train early-career researchers in the norms of constructive peer review;  
 4) As citable objects, preprints and their reviews can be used as proof of productivity and engagement for career advancement. 
 
-## Why training researchers in peer review?
+## Why community peer review of preprints?
+
+* __Expand and diversify the pool of peer reviewers__  
+The current system of scientific peer review is flawed. Research is evaluated by a handful of unpaid reviewers selected by journal editors as “experts” in the field. Two or sometimes three reviewers are chosen opaquely, often through personal connections. Behind closed doors, they decide the fate of a research article, largely basing their evaluation on subjective criteria. Paradoxically, while peer review is a key component for scientific dissemination, very few scientists receive any formal training in it. 
 
 * __Formal peer review training is rare and variable in quality__  
 In our community opinion survey<sup>2</sup>, we found that only 18% of the respondents had received peer review training, even 
 though 72% had contributed to the peer review process. This suggests that very few scientists are trained when they write their 
 first review – and even when they are, the training may vary greatly in quality. This is not only worrisome for journal editors because 
 they will find it harder to recruit new qualified reviewers, but it also denies ECRs the opportunity to learn valuable critical thinking 
-skills from the early stages of their scientific training. Furthermore, ECRs are rarely invited to engage in traditional peer review. This is likely because they are either not known to journal editors or 
-they are believed to be less competent than more senior researchers at providing feedback on their peers’ work. 
+skills from the early stages of their scientific training. Furthermore, ECRs are rarely invited to engage in traditional peer review. This is likely because they are either not known to journal editors or they are believed to be less competent than more senior researchers at providing feedback on their peers’ work. 
 
-* __Expand and diversify the pool of peer reviewers__  
-The current system of scientific peer review is flawed. Research is evaluated by a handful of 
-unpaid reviewers selected by journal editors as “experts” in the field. Two or sometimes three reviewers are chosen opaquely, often 
-through personal connections. Behind closed doors, they decide the fate of a research article, largely basing their evaluation on 
-subjective criteria. Paradoxically, while peer review is a key component for scientific dissemination, very few scientists receive 
-any formal training in it. 
-
-  This arcane process is not only slow and inefficient – with waiting periods from submission to publication of six months or more – 
-  but also disadvantages researchers from under-represented groups or under-resourced institutions. When they submit their research for 
-  peer review, their work is evaluated using standards developed for research groups with vastly more resources and connections. 
-  The gatekeepers to publication are disproportionately male<sup>3,4,5</sup> and from the U.S. or Europen countries<sup>6</sup>. Rarely is 
-  research evaluated by a diverse pool of reviewers who can provide a comprehensive and context-appropriate evaluation of the science. 
+This arcane process is not only slow and inefficient – with waiting periods from submission to publication of six months or more – 
+but also disadvantages researchers from under-represented groups or under-resourced institutions. When they submit their research for 
+peer review, their work is evaluated using standards developed for research groups with vastly more resources and connections. The gatekeepers to publication are disproportionately male<sup>3,4,5</sup> and from the U.S. or Europen countries<sup>6</sup>. Rarely is 
+research evaluated by a diverse pool of reviewers who can provide a comprehensive and context-appropriate evaluation of the science. 
   
-  Thus, we need better ways to find, train, and engage researchers in peer review, and, importantly, we need to be intentional about including 
-  researchers from under-represented groups in the design and leadership on any potential solutions. 
+Thus, we need better ways to find, train, and engage researchers in peer review, and, importantly, we need to be intentional about including researchers from under-represented groups in the design and leadership on any potential solutions. 
+
+The new PREreview open-source platform is designed from the ground up to engage the whole scientific community with collaborative and constructive peer review on preprints. Some of the key features of the new PREreview platform include the ability for users to sign-in with their ORCID IDs (with optional pseudonymity), solicit preprint feedback, leave comments, and endorse others’ reviews, all in accordance with PREreview’s Code of Conduct.
+
+
+# Leadership Team 
+
+PREreview is lead by Drs. Daniela Saderi, Sam Hindle, and Monica Granados. We operate under the fiscal sponsorship of the non-profit organization [Code for Science & Society (CS&S)](https://codeforscience.org/). 
+
+### Daniela Saderi, Ph.D. – Co-Founder, Project Director
+![Daniela](../images/daniela_bw_small.jpg)
+
+Daniela was a Mozilla Fellow for Science in 2018/2019. She has recently earned a Ph.D. in neuroscience at Oregon Health and Science University, in Portland OR, USA. During her time as a student, she became increasingly interested in how open practices can be used to empower early-career researchers in taking ownership over their work, and to facilitate collaborations within and across teams. Daniela enjoys cooking and eating good vegetarian food (she is Italian, after all!), rock climbing, and reading biographies and up-lifting books with her two black cats on her lap.  
+Email: [daniela@prereview.org](daniela@prereview.org)
+
+### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Partnerships Lead  
+![Sam](../images/sam_bw_small.jpg)
+
+Sam is the Content Lead at [bioRxiv](https://www.biorxiv.org/) - the leading preprint server for the life sciences - where she guides and supports the editorial team, helps to implement innovative updates to the server, and engages in advocacy efforts to promote equity in access to scientific discoveries through preprints. At PREreview she manages the peer review training program and resource generation, and is the primary lead for stakeholder relationships. Sam is also a Neuroscientist and master of _Drosophila_ brain dissections. When she is not immersed in the world of preprints, she will likely have her camera in hand trying to frame a beautiful landscape scene, or reflecting on ways of being more present and other-centered.
+Email: [sam@prereview.org](sam@prereview.org)
+
+
+### Monica Granados, Ph.D. – Community Building and Outreach Lead  
+![Monica](../images/monica_bw_small.png)
+
+Monica joined the PREreview team in January 2018, first as a member of the Advisory Committee, and then as the lead of community building and outreach. She is a Mitacs Canadian Science Policy Fellow working as Policy Analyst at Environment and Climate Change Canada in open science. 
+As a food web ecologist, she has been dedicated to using the current knowledge around food webs to monitor changes in freshwater 
+systems and, most importantly, to provide recommendations to decision makers and the public. Monica is a story-teller and teaches other
+scientists how to use improv skills as a way to better communicate their science. 
+Email: [monica@prereview.org](monica@prereview.org)
+
+ # Fiscal Sponsor
+
+[Code for Science & Society (CS&S)](https://codeforscience.org/) is our fiscal sponsor. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in managing partnerships with scientists and institutions, connecting with the larger open scholarship community, fundraising, as well as hiring and management of staff. 
+
+
 
 ## References
 <sup>1</sup>Ronald D. Vale. Accelerating scientific publication in biology. Proceedings of the National Academy of Sciences 112, 13439–13446 Proceedings of the National Academy of Sciences, 2015  
