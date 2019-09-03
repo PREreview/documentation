@@ -1,4 +1,4 @@
-# Our Mission
+# Mission
 The core of PREreview’s mission is to support and drive the cultural change that will lead to the growth of a diverse community of trained peer reviewers. This community has the power to provide feedback at a point in the publication process when it matters. We believe preprints offer an invaluable opportunity for researchers to share the outputs of their work freely and early enough to benefit from community feedback. 
 
 We are trying to tackle three major problems: 
