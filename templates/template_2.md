@@ -1,13 +1,15 @@
 # PREreview extended peer review guidelines
 
-## Overview and take-home messages:
+Below is a detailed guide to help you critically and constructively evalute the selected preprint. For a quicker version of this guide, please select Template #1.
+
+## Overview and take-home message
 Write a short (1 paragraph) summary of what the main findings of the research were and how this work has moved the field forward. 
 This could take the following structure:
 “*[First author]* et al. have made significant advances in *[x, y and z]* by showing that… In addition, they have bridged the gap in 
 our knowledge about how *[process i interacts with process ii]*. Although this work is of *[significant]* interest to the field, there 
 are some concerns that could be addressed in the next version. These are outlined below.”
 
-## Positive feedback:
+## Positive feedback
 As the aim of this PREreview is to support the authors by providing constructive feedback, the PREreviewer(s) should also 
 include positive remarks to encourage future posting of preprints. Remember, the authors are human too! To help guide you, here are a 
 few questions you might ask yourself after reading the preprint:
