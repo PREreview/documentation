@@ -18,10 +18,10 @@ threatening, offensive, or harmful.
 ## Who does this Code of Conduct apply to?
 This Code of Conduct applies to PREreview members contributing directly on this platform or members/non-members participating in events organized by PREreview (workshop, live-streamed preprint journal clubs, community calls, etc.).
 
+## Reporting Code of Conduct violations
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported personally by contacting the PREreview leadership team at **[contact@prereview.org](contact@prereview.org)**, or anonymously by filling out [this anonymous form](). 
 
-## Reporting
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported personally by contacting the PREreview leadership team at contact@prereview.org, or anonymously by filling out this form. 
-An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview. All complaints will be reviewed and investigated, and will  result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview (see below for more examples of unacceptable behavior). All complaints will be reviewed and investigated, and will  result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 PREreview members who do not follow and PREreview team members who do not enforce the Code of Conduct in good faith may face temporary 
 or permanent repercussions as determined by other members of the project's leadership.
 
@@ -43,12 +43,36 @@ or permanent repercussions as determined by other members of the project's leade
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-### What does constructive feedback mean? 
+### Constructive feedback
 
-TBF
+Giving feedback is hard. Doing so constructively can be even more challenging. But what does "constructive" mean in the context of PREreview? Does it mean that you can only express positive comments related to a study? No. With constructive feedback we refer to feedback that can be used by the authors to improve their manuscript. That includes providing negative feedback on the use of a statistical test for example, or on the interpretability of a particular bar plot. However, that same negative feedback has to be provided using respectful language and in a way to allow the authors to fix the problem.   
 
-## Preprint Journal Club Code of Conduct
-To encourage a respectful and thriving preprint JC environment, we have provided additional pointers that we strongly recommend for hosting and participating in local and online (live-streamed) preprint JCs.
+For example, if you believe a statistical test was used incorrectly, you may say:  
+
+*"Statistical test XYZ should be used only if the data is distributed normally. The data presented in this preprint appear to be highly skewed to the left, and for that I would suggest the use of ABC test, a non-parametric version of XYZ which makes no assumption on the parameters of the distribution of the data. If the authors' choice of XYZ is motivated by a particular strategy or other non-obvious analytical constraints, I recommend the authors explicitely mention that in the Methods section justifying their choice accordingly."* – This is constructive!
+
+as opposed to:  
+
+*You have no idea of what they are doing and should go back to statistics 101.*" – This is a clear violation of the PREreview Code of Conduct.  
+
+In the first version of the comment, you are providing your opinion and backing it up with a reason why you think that test is inappropriate. Furthermore, you are using "the authors ..." as subject of your sentences instead of "you ..." which helps depersonalize the feedback and keep the focus on the work.
+
+In the second version of the comment, you are clearly attacking the author at a personal level and insulting their education, which is not only offensive, unprofessional, and a clear violation of the Code of Conduct, but it is also useless to the authors as it does not provide a way to improve the study.
+
+As our friends at [PLoS](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) say, try to follow the golden rule: "Write the type of review you’d want to receive if you were the author." 
+
+For additional precious tips on how to provide constructive feedback, explore the [PLoS Peer Reviewe Center](http://reviewers.plos.org/).
+
+
+### Conflict of Interest
+
+
+### Being on the receiving end of feedback
+
+
+
+## Preprint Journal Club 
+To encourage a respectful and thriving preprint JC environment, we have provided additional tips we strongly recommend you follow for hosting and participating in local and online (live-streamed) preprint JCs.
 
 ### Points to consider when organizing a preprint JC
 
