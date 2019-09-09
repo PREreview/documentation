@@ -43,7 +43,7 @@ or permanent repercussions as determined by other members of the project's leade
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-### Constructive feedback
+## Constructive feedback
 
 Giving feedback is hard. Doing so constructively can be even more challenging. But what does "constructive" mean in the context of PREreview? Does it mean that you can only express positive comments related to a study? No. With constructive feedback we refer to feedback that can be used by the authors to improve their manuscript. That includes providing negative feedback on the use of a statistical test for example, or on the interpretability of a particular bar plot. However, that same negative feedback has to be provided using respectful language and in a way to allow the authors to fix the problem.   
 
@@ -59,17 +59,38 @@ In the first version of the comment, you are providing your opinion and backing 
 
 In the second version of the comment, you are clearly attacking the author at a personal level and insulting their education, which is not only offensive, unprofessional, and a clear violation of the Code of Conduct, but it is also useless to the authors as it does not provide a way to improve the study.
 
+Remember, **you can be honest and constructive at the same time!**
+
 As our friends at [PLoS](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) say, try to follow the golden rule: "Write the type of review you’d want to receive if you were the author." 
 
 For additional precious tips on how to provide constructive feedback, explore the [PLoS Peer Reviewe Center](http://reviewers.plos.org/).
 
+## Conflict of Interest
+What is considered conflict of interest (CoI) at PREreview and why should you care about them?
 
-### Conflict of Interest
+CoI comes in many shapes and forms. Here is the official definition that PREreview adapted from the [PLoS Reviewer Center](http://reviewers.plos.org/resources/competing-interests-for-reviewers/):  
 
+*"A CoI is anything that interferes with, or could reasonably be perceived as interfering with, the full and objective presentation and PREreview of a published preprint."
 
-### Being on the receiving end of feedback
+A CoI can be financial or non-financial, professional, or personal. It can arise in relationship to an organization, a department, a laboratory, or a person.
 
+CoIs matter because they can introduce perceived or actual bias in the evaluation of the preprint that can have repercussions all the way to the journal acceptance of that manuscript. 
 
+To read more about CoI in peer review, please refer once again to the [PLoS Reviwer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your CoI in relation to a manuscript. **If you find that you have a potential CoI with the authors, please do disclose it in your PREreview.**
+
+## Being on the receiving end of feedback
+
+We established that giving feedback can be challenging, but it can (and should) be done constructively following some tips. What about receiving feedback? The world often does not prepare us to receive feedback either. Often even if feedback is given constructively, we tend to take it personally and assume that the person who gave us feedback is deliberately challenging our identity as people. 
+
+If that is your first reaction to a comment, read it again and try to imagine how you would have given that same suggeston to your peer if you had any reason to believe, like in the example above, a statistical test was not used correctly. 
+
+If after considering the suggestion(s) made by the PREreviewer(s) you still believe the way you and your team analyzed the data is correct, provide an explanation of why. You can also consider asking the PREreviewer for further explanation around the suggestion, with examples and evidence to back it up. 
+
+Remember that PREreviewers are community members who are here to help you improve your manuscript and provide more trasparency to the evaluation process of scholarly outputs – in this case, of preprints. They are finding time in their busy schedules to help you. Be polite, respectful, and grateful for their contribution. 
+
+We invite you to reply to the PREreview with a comment, thanking the PREreviewer(s) for their time. If you found the PREreview particularly helpful, give it a Plaudit and consider acknowledging the PREreviewers in a new version of the preprint and the final version of the manuscript issued for publication. 
+
+If you believe the content of a PREreview or a comment violates our Code of Conduct, please report the incidence immediately by emailing us at [contact@prereview.org](contact@prereview.org) and we will do our best to act according to our policy. 
 
 ## Preprint Journal Club 
 To encourage a respectful and thriving preprint JC environment, we have provided additional tips we strongly recommend you follow for hosting and participating in local and online (live-streamed) preprint JCs.
