@@ -109,5 +109,6 @@ To encourage a respectful and thriving preprint JC environment, we have provided
 * Be aware when you or others are dominating the discussing and allow space for other participants to contribute
 
 
+The content of this page was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and from [PLoS Peer Reviewe Center](http://reviewers.plos.org/). If you have questions, feedback (please constructive only!), or suggestions on how to improve it, please contact us at contact@prereview.org. 
 
-This Code of Conduct was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+Thank you for being a good community member!
