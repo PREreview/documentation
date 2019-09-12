@@ -72,7 +72,25 @@ systems and, most importantly, to provide recommendations to decision makers and
 scientists how to use improv skills as a way to better communicate their science. 
 Email: [monica@prereview.org](monica@prereview.org)
 
- # Fiscal Sponsor
+# Advisory Committee
+
+**Prachee Avasthi, Assistant Professor at University of Kansas Medical Center**
+Prachee is an Assistant Professor in the Anatomy and Cell Biology Department and Ophthalmology Department at the University of Kansas Medical Center, Kansas City. Her laboratory studies the formation and regulation of ciliary structures using Chlamydomonas reinhardtii and mammalian cell culture. Passionate about open science, Prachee sits on the Board of Directors for the Open Access journal eLife and the non-profit organization ASAPbio. She has also lead an excellent course, “Analysis of Scientific Papers”, in which she taught students how to write peer reviews and critically evaluate scientific manuscripts using preprints.
+
+**Josh Nicholson, Founder and CEO of [scite_](https://scite.ai)**
+Josh Nicholson received his Ph.D. in 2015 from Virginia Tech studying the role of the karyotype in cancer initiation and progression in the lab of Dr. Daniela Cimini. He received his Bachelors of Science degree in Molecular, Cell, and Developmental Biology at UC Santa Cruz in 2008. He has authored numerous articles on cancer and the practice of science, some of which have been discussed in Newsweek, The Economist, The Chicago Tribune, and The Boston Globe. He is the grandson of the late UC Berkeley Professor Richard Strohman who taught him “science is for the surprises, not the prizes.” 
+
+**Naomi Penfold, Associate Director of [ASAPbio](https://asapbio.org)**
+Naomi is Associated Director of ASAPbio, a scientist-driven non-profit working to promote conversations about the effective use of preprints in biology. Before joining ASAPbio, Naomi was the Innovation Officer for the journal eLIFE. Naomi received her Ph.D. from the University of Cambridge in 2017, following research in behavioural neuroscience and developmental biology. She now works to identify and support open source projects for open science, with a focus on those that improve the discovery, sharing, consumption and evaluation of research. More broadly, Naomi is an advocate for inclusive community practises and governance as a way to make research a more equitable and effective enterprise.
+
+**Jessica Polka, Director of [ASAPbio](https://asapbio.org)**
+Jessica is Director of ASAPbio, a scientist-driven non-profit working to promote conversations about the effective use of preprints in biology. Currently a visiting scholar at the Whitehead Institute in Cambridge, MA, Jessica performed postdoctoral research at Harvard Medical School; she received a Ph.D. in Biochemistry from UCSF and a BS in Biology from UNC-CH. She is president of the non-profit Future of Research and serves on ASCB's Public Policy Committee as well as NAS's Next Generation Researchers Initiative.  
+
+**Lenny Teytelman, CEO and Co-Founder of [protocols.io](https://protocols.io)**
+Lenny is the CEO and Co-Founder of protocols.io, an open access repository for sharing research methods. Lenny has over a decade of computational and experimental biology experience. He did his graduate studies at UC Berkeley and finished his postdoctoral research at MIT. Lenny has a strong passion for sharing science and improving research efficiency through technology.
+
+
+# Fiscal Sponsor
 
 [Code for Science & Society (CS&S)](https://codeforscience.org/) is our fiscal sponsor. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in managing partnerships with scientists and institutions, connecting with the larger open scholarship community, fundraising, as well as hiring and management of staff. 
 
