@@ -1,6 +1,6 @@
-# PREreview quick participant worksheet
+# PREreview quick template
 
-Below is a list of quick questions you can use to guide your reading and reviewing of the selected preprint. For a more detailed template and tips, please load Template #2.  
+Below is a list of quick questions you can use to guide your reading and reviewing of the selected preprint to produce a quick review. For a more detailed template and tips, please load Template #2.  
 
 * What is the main question the study attempts to answer?
 
