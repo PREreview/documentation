@@ -28,7 +28,7 @@ or permanent repercussions as determined by other members of the project's leade
 ### Example behaviors that contribute to creating a positive environment include:
 
 * Using welcoming and inclusive language
-* Providing feedaback that is constructive*, i.e., useful to the receiver
+* Providing feedback that is constructive*, i.e., useful to the receiver (see more below)
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
@@ -49,7 +49,7 @@ Giving feedback is hard. Doing so constructively can be even more challenging. B
 
 For example, if you believe a statistical test was used incorrectly, you may say:  
 
-*"Statistical test XYZ should be used only if the data is distributed normally. The data presented in this preprint appear to be highly skewed to the left, and for that I would suggest the use of ABC test, a non-parametric version of XYZ which makes no assumption on the parameters of the distribution of the data. If the authors' choice of XYZ is motivated by a particular strategy or other non-obvious analytical constraints, I recommend the authors explicitely mention that in the Methods section justifying their choice accordingly."* – This is constructive!
+*"Statistical test [test1 name] should be used only if the data is distributed normally. The data presented in this preprint appear to be highly skewed to the left, and for that I would suggest the use of [test2 name] test, a non-parametric version of [test name1] which makes no assumption on the parameters of the distribution of the data. If the authors' choice of [test1 name] is motivated by a particular strategy or other non-obvious analytical constraints, I recommend the authors explicitely mention that in the Methods section justifying their choice accordingly."* – This is constructive!
 
 as opposed to:  
 
