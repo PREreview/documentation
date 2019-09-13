@@ -14,7 +14,7 @@ To help you with the composition of your prereview, here are 5 basic tips:
 ...
 
 ### Quick template questions:
-Below is a list of questions you can be asking yourself while reading the perprint.  
+Below is a list of questions you can be asking yourself while reading the preprint to write up a quick review.  
 
 * *What is the main question the study attempts to answer?*
 * *What is (are) the hypothesis(es)?*
