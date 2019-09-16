@@ -100,6 +100,16 @@ This new PREreview platform was funded by the [Alfred P. Sloan Foundation](https
 
 We also received funding from the [Wellcome Trust](https://wellcome.ac.uk/funding/schemes/open-research-fund) for a project in collaboration with the non-profit organization [Outrbreak Science](http://outbreakscience.org/). We are currently developing an extension of the PREreview platform to allow for the rapid review of preprints in the context of public health crises. 
 
+# Contact
+
+For any questions or concerns, or to report a violation of the Code of Conduct, 
+please don't hesitate to contact us at [contact@prereview.org](contact@prereview.org). 
+
+For anonymous Code of Conduct violation, please fill out [this form](https://forms.gle/a4x3TX2D2XRRN7Wo6). 
+
+[Here](https://prereview.org/docs/codeofconduct) you can learn more about our Code of Conduct.
+
+
 ## References
 <sup>1</sup>Ronald D. Vale. Accelerating scientific publication in biology. Proceedings of the National Academy of Sciences 112, 13439–13446 Proceedings of the National Academy of Sciences, 2015  
 <sup>2</sup>Samantha Hindle, Daniela Saderi. Preprint Journal Clubs: Your Opinions Revealed. Authorea. November 29, 2017. DOI: https://doi.org/10.22541/au.151193754.44459059.  
