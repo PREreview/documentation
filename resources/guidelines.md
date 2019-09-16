@@ -1,4 +1,4 @@
-# How to write a prereview
+# How to write a PREreview
 
 At PREreview, we believe *all* researchers should be able to engage in honest and respectful conversations around emerging scientific 
 output. Peer review is a foundamental aspect of being a researcher. However, formal training in it is uncommon and varies in quality. 
