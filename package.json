@@ -1,0 +1,30 @@
+{
+  "name": "prereview-documentation",
+  "version": "0.0.1",
+  "description": "Documentation for the PREreview platform",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PREreview/documentation.git"
+  },
+  "keywords": [
+    "PREreview",
+    "documentation",
+    "docs",
+    "preprints"
+  ],
+  "author": "PREreview",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/PREreview/documentation/issues"
+  },
+  "homepage": "https://github.com/PREreview/documentation#readme",
+  "devDependencies": {
+    "remark": "^11.0.1",
+    "remark-html": "^10.0.0",
+    "remark-preset-lint-recommended": "^3.0.3"
+  }
+}
