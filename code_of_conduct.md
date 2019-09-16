@@ -28,7 +28,7 @@ or permanent repercussions as determined by other members of the project's leade
 ### Example behaviors that contribute to creating a positive environment include:
 
 * Using welcoming and inclusive language
-* Providing feedback that is constructive*, i.e., useful to the receiver (see more below)
+* Providing feedback that is constructive, *i.e.*, useful to the receiver (see more below)
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
