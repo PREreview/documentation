@@ -61,7 +61,7 @@ Another option is to share the feedback with the preprint authors privately via 
 
 **9. Liven it up and build your network**
 
-*Lead and participate to live-streamed PREreview journal clubs*: 
+*Lead and participate to live-streamed PREreview journal clubs*: Live-streamed preprint journal clubs, are journal clubs that happen online and involve researchers from different institutions and geographical locations who have in common a passion for a given topic. These events are not only more inclusive because they allow for anyone with an internet connection to participate, but they also help you build connections with your peers. Learn more about them and how we can support you if you wish to get one going below.
 
 **10. Look for more resources**
 
