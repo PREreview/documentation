@@ -120,31 +120,45 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 
 *30-second summary*: if you have an hour to spare to discuss latest science, help fellow researchers, make a difference to publishing, and eat [food], [put your name here/reply to this email]
 
-What is a Preprint? A manuscript that has yet to be peer-reviewed in the normal editorial process. They are available from depositories like biorxiv.org
+*What is a Preprint? A manuscript that has yet undergone journal-organized peer review.*  
 
 *What is a Journal Club? An occasion where we sit together to discuss a scientific paper- what we like and don't like
-What is SPECIAL about a preprint journal club? We discuss a Preprint instead of a published paper. Because the preprint is not yet published, our comments and suggestions might actually *make a difference* to the final published paper.* 
-Cool... but how is that done? Through PREreview.org, we will publish our comments as a review for the paper. This review gets a DOI, will be public and will also be sent to the authors of the preprint.
-Why should I spend time and effort to give feedback to other people's manuscript?
-1. if you're a student: it's a really important part of your scientific career, to be able to understand and critique other people's research and results. 
-2. postdocs + students: reviewing papers is a huge part of a PI's job- this is an excellent opportunity to practice
-3. everyone: publishing sucks. There's a lot of talk about how long and tedious the process is, but here's a chance to actually do something to change it. You're contributing to the exploration of alternative ways to get results out and advance science faster.
-But... I'm just a student, I don't know how to write reviews/make valid scientific comments... I don't either. That's why this is a discussion- we can teach each other! There will be some materials to guide us through (also so that it doesn't go on forever!). 
-I have tons of experiments. I don't have time. *Free food*, and I promise it will finish within one hour. 
-OK I'm sold. What do I do next? *hug* [sign up here/reply to this email] so I can keep you in the loop! My plan is [some specifics about the JC. You can also ask for suggestions on the format, preprints, etc.]
-I have questions/suggestions... come talk to me!  This is honestly an experiment- I would love to hear from you how to make it work (:
-Best,
+What is SPECIAL about a preprint journal club? We discuss a Preprint instead of a published paper. Because the preprint is not yet published, our comments and suggestions might actually *make a difference* to the final published paper.*  
+
+*Cool... but how is that done? Via PREreview.org, we will publish our feedback as a review for the preprint. This PRE-review gets a DOI, will be public and will also be sent to the authors of the preprint.*  
+
+*Why should I spend time and effort to give feedback to other researchers' manuscripts?  
+1. if you're a student: it's a really important part of your scientific career, to be able to understand and critique other people's research and results.  
+*2. postdocs + students: reviewing papers is a huge part of a PI's job- this is an excellent opportunity to practice
+3. everyone: publishing sucks. There's a lot of talk about how long and tedious the process is, but here's a chance to actually do something to change it. You're contributing to the exploration of alternative ways to get results out and advance science faster.*    
+
+*But... I'm just a student, I don't know how to write reviews/make valid scientific comments... I don't either. That's why this is a discussion- we can teach each other! There will be some materials to guide us through (also so that it doesn't go on forever!). 
+
+*I have tons of experiments. I don't have time. *Free food*, and I promise it will finish within one hour.* 
+
+*OK I'm sold. What do I do next? Reply to this email, so I can keep you in the loop! My plan is [some specifics about the JC. You can also ask for suggestions on the format, preprints, etc.]*  
+
+*I have questions/suggestions... come talk to me! This is honestly an experiment- I would love to hear from you how to make it work (:
+
+*Best,  
+
 [Your Name]
-Once you have a preprint JC setup, you can start reviewing! Sign up on prereview.org following these step-by-step instructions. We have also written some guidelines to help you structure your prereview.
+
+Once you have a preprint JC setup, you can start reviewing! Sign up on prereview.org following these step-by-step instructions. We have also written some guidelines [LINK TO GUIDELINES] to help you structure your prereview.
 HAPPY PREREVIEWING!!!
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Template email #4: send it to the preprint's corresponding author after you publish your review
-Dear [corresponding author's name],
-I am [insert your name and affiliation] and together with other researchers, I recently discussed your preprint ([insert title or doi of preprint]) during our journal club meeting. I am member of PREreview, a platform and a community that aims to support early-career researchers in presenting and reviewing preprints at journal clubs by providing resources to guide them through the process of peer review.  Using these resources, we have compiled a review of your preprint, summarizing the feedback from the journal club. The review is openly available on PREreview.org ([insert doi or the link to your review]). 
-We hope the preprint review will be useful to you, and we welcome any comments you may have in response.  If you would like to respond to the review, you can leave comments directly on the review by selecting the text and clicking on the commenting icon at the top of the page.
-Kind regards,
-[your name]
+
+*Dear [corresponding author's name],
+
+*I am [insert your name and affiliation] and together with other researchers, I recently discussed your preprint ([insert title or doi of preprint]) during our journal club meeting. I am member of PREreview, a platform and a community that aims to support early-career researchers in presenting and reviewing preprints at journal clubs by providing resources to guide them through the process of peer review.  Using these resources, we have compiled a review of your preprint, summarizing the feedback from the journal club. The review is openly available on PREreview.org ([insert doi or the link to your review]).*  
+
+*We hope the preprint review will be useful to you, and we welcome any comments you may have in response.  If you would like to respond to the review, you can leave comments directly on the review by selecting the text and clicking on the commenting icon at the top of the page.* 
+
+*Kind regards,*
+
+[Your Name]
 
 
 # How to start and lead a Live-Streamed PREreview JC
