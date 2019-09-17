@@ -109,6 +109,8 @@ For anonymous Code of Conduct violation, please fill out [this form](https://for
 
 [Here](https://prereview.org/docs/codeofconduct) you can learn more about our Code of Conduct.
 
+Follow us on Twitter @PREreview_.
+
 
 ## References
 <sup>1</sup>Ronald D. Vale. Accelerating scientific publication in biology. Proceedings of the National Academy of Sciences 112, 13439–13446 Proceedings of the National Academy of Sciences, 2015  
