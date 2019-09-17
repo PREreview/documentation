@@ -109,7 +109,7 @@ For anonymous Code of Conduct violation, please fill out [this form](https://for
 
 [Here](https://prereview.org/docs/codeofconduct) you can learn more about our Code of Conduct.
 
-Follow us on Twitter @PREreview_.
+Follow us on Twitter [@PREreview_](https://twitter.com/PREreview_).
 
 
 ## References
