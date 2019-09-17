@@ -21,7 +21,7 @@ PREreviw [Code of Conudct](https://prereview.org/docs/codeofconduct) applies.
 
 * 4. Help us develop the PREreview mentorship program. This program is under development. Please contact us at contact@prereview.org or raise an issue here with the label "Mentoring" and we will get back to you.
 
-* 5. Help us fix typos, add useful links, or write new resources by raising an issue with the label "bug", or "resources", or by issuing a pull request in this repository. 
+* 5. Help us fix typos, add useful links, or write new resources by raising an issue with the label "bug", or "documentation", or by issuing a pull request in this repository. 
 
 * 6. Get involved in the wider preprint community by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
 
