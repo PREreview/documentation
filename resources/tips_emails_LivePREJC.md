@@ -17,7 +17,7 @@ a. *Where to look*: There are many preprint servers that differ in several dimen
 
 b. *Get notified*: Some preprint servers (*e.g.*, bioRxiv) have a way to set up notifications using keywords that will send you an email whenever a new preprint with that particular keyword is posted on the server.  
 
-c. *Stay connected*: Many researchers these days use Twitter and other social media platforms to share preprints they found interesting to read or to publicize their own. Follow the hashtag [#preprint](https://twitter.com/search?q=%23preprint&src=typed_query) and the preprint servers' handle (@) to get them in your feed. There are also bots tweeting out preprints with the highest visibility on a given preprint server (*e.g.*, [Promising Preprints](https://twitter.com/PromPreprint)), or search engines that help highlight preprints that for one reason or another have remained in the shade like the newly developed [Hidden Gems](https://hiddenpreprints.org/) search. It is also useful to follow other researchers in your field who might share content that you may find interesting.   
+c. *Stay connected*: Many researchers these days use Twitter and other social media platforms to share preprints they found interesting to read or to publicize their own. Follow the hashtag [#preprint](https://twitter.com/search?q=%23preprint&src=typed_query) and the preprint servers' handle (@) to get them in your feed. There are also bots tweeting out preprints with the highest visibility on a given preprint server (*e.g.*, [Promising Preprints](https://twitter.com/PromPreprint)), sites that rank preprints based on article download metrics or Twitter attention (*e.g.*, [Rxivist](https://rxivist.org/), or search engines that help highlight preprints that for one reason or another have remained in the shade (*e.g.*, the newly developed [Hidden Gems](https://hiddenpreprints.org/) search). It is also useful to follow other researchers in your field who might share content that you may find interesting.   
 
 
 **3. Preparation is key**  
@@ -34,7 +34,7 @@ You can also use [quick template](TO BE ADDED) to guide the discussion with some
 
 **5. Keep it constructive**  
 
-*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcome to participate. Encourage respectful and constructive comments. As we mention in our [Code of Conduct](https://prereview.org/docs/code_of_conduct), being constructive does not necessarily equal limiting comments to positive ones. Remind JC participants that being constructive means providing feedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found to be needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
+*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcome to participate. Encourage respectful and constructive comments. As we mention in our [Code of Conduct](https://prereview.org/docs/codeofconduct), being constructive does not necessarily equal limiting comments to positive ones. Remind JC participants that being constructive means providing feedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found to be needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
 
 
 **6. Write the PREreview**  
@@ -43,7 +43,7 @@ You can also use [quick template](TO BE ADDED) to guide the discussion with some
 
 *Choose a template*: On the new PREreview platform, you have the option to choose one of two available templates. The first one is a quick questionnaire that will guide you and other JC participants through a constructive discussion of the preprint. The second one is a longer and more detailed guide that will help you craft a complete report similar to what you would do if you were peer reviewing for a journal.  
 
-*Keep it constructive and simple*: As we said in tip 5, keep your feedback constructive and actionable, so that it is simple for the authors to integrate into the manuscript. Also remember that any content on PREreview that violates the CoC will be removed from the site, and the author(s) of those comments may be permanently banned from the community. Read more in our [CoC](https://prereview.org/docs/code_of_conduct).  
+*Keep it constructive and simple*: As we said in tip 5, keep your feedback constructive and actionable, so that it is simple for the authors to integrate into the manuscript. Also remember that any content on PREreview that violates the CoC will be removed from the site, and the author(s) of those comments may be permanently banned from the community. Read more in our [CoC](https://prereview.org/docs/codeofconduct).  
 
 
 **7. Share your PREreview**  
