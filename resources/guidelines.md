@@ -13,7 +13,7 @@ Here are the 5 golden rules for a great PREreview:
 4. *Be clear.* The clearer you are about what your comment or suggestion is referring to, the easier it will be for authors and readers to understand it.   
 5. *Be coincise.* You can be as thorough as you have time to be, but keeping your feedback coincise increses the chances authors and other readers will read through it and take action as a result of it.  
 
-More on this in our [Code of Conduct](https://prereview.org/docs/codeofconduct)
+More on this in our [Code of Conduct](https://prereview.org/docs/code_of_conduct).
 
 ## PREreview Templates
 
@@ -108,11 +108,3 @@ Tips for getting started as a reviewer](http://reviewers.plos.org/resources/10-t
 These resources include checklists, videos, and further information about ethical considerations 
 etc. They also provide suggested language you can use to address common issues that can arise when reviewing a manuscript.
 
-
-
-
-You can find additional peer review tips in the [PLOS Reviewer Center](http://reviewers.plos.org/), including their 
-[How To Peer Review](http://reviewers.plos.org/resources/#how-to-review) page that contains [10 
-Tips for getting started as a reviewer](http://reviewers.plos.org/resources/10-tips-for-getting-started-as-a-reviewer/). 
-These resources include checklists, videos, and further information about ethical considerations 
-etc. They also provide suggested language you can use to address common issues that can arise when reviewing a manuscript.
