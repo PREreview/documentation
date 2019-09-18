@@ -24,7 +24,7 @@ c. *Stay connected*: Many researchers these days use Twitter and other social me
 
 *Use a collaborative doc to take notes*: In preparation for your JC, prepare in advance a document in which you or someone else from the group can take notes of the main discussion points. The collaborative document could be a Google Doc, or an Etherpad.
 
-yu can also us[quick template](TO BE ADDED) to guide the discussion with some pre-written questions. You can then share the document ahead of time to allow for any eagear partticipant to fill out the questions with notes before the meeting. This step is important because by taking notes you will have a much easier time to compile the feedback to share with the community (*e.g.*, on PREreview!).
+You can also use [quick template](TO BE ADDED) to guide the discussion with some pre-written questions. You can then share the document ahead of time to allow for any eagear partticipant to fill out the questions with notes before the meeting. This step is important because by taking notes you will have a much easier time to compile the feedback to share with the community (*e.g.*, on PREreview!).
 
 
 **4. Work in pairs**  
@@ -34,22 +34,21 @@ yu can also us[quick template](TO BE ADDED) to guide the discussion with some pr
 
 **5. Keep it constructive**  
 
-*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcomed to participate. Encourage respectful and constructive comments. As we mention in our our [Code of Conduct](https://prereview.org/docs/codeofconduct), being constructive does not necessarely equal limiting comments to positive ones. Remind JC participants that being constructive means provideineedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
+*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcomed to participate. Encourage respectful and constructive comments. As we mention in our our [Code of Conduct](https://prereview.org/docs/codeofconduct), being constructive does not necessarely equal limiting comments to positive ones. Remind JC participants that being constructive means providing feedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
 
 
 **6. Write the PREreview**  
 
-*Identify the co-authors*: Would all participants of the JC discussion like to be listed as co-authors of the PREreview? If so, you can invite them to sign up to PREreview (they will need an ORCID iD) or you can list their names (ask for consent) at the top of the PREreview as participants of a JC discussion. If they are interested in being co-authors, ask for support in writing the full report, or perhaps just editing it as the more people can help, the easier it will be to write the PREreview.  
+*Identify co-authors*: Would all participants of the JC discussion like to be listed as co-authors of the PREreview? If so, you can invite them to sign up to PREreview (they will need an ORCID iD) or you can list their names (ask for consent) at the top of the PREreview as participants of a JC discussion. If they are interested in being co-authors, ask for support in writing the full report, or perhaps just editing it as the more people can help, the easier it will be to write the PREreview.  
 
-*Choose a template*: On the new PREreview platform, you'll have the option to choose one of two available templates. The first one is a quick questionnaire that will guide you and other JC participant through a constructive discussion of the preprint. The second one is a longer and more detailed guide that will help you craft a complete report similar to what you would do if you were peer reviewing for a journal.  
+*Choose a template*: On the new PREreview platform, you have the option to choose one of two available templates. The first one is a quick questionnaire that will guide you and other JC participant through a constructive discussion of the preprint. The second one is a longer and more detailed guide that will help you craft a complete report similar to what you would do if you were peer reviewing for a journal.  
 
 *Keep it constructive and simple*: As we said in tip 5, keep your feedback constructive and actionable, so that it is simple for the authors to integrate in the manuscript. Also remember that any content on PREreview that violates the CoC will be removed from the site, and the author(s) of those comments may be permanently banned from the community. Read more on our [CoC](https://prereview.org/docs/codeofconduct).  
 
 
 **7. Share your PREreview**  
 
-Once the PREreview is written, you can share it openly on PREreview and get a free digital object identifier (DOI) associated with it. This will allow you and other PREreviewers to share your feedback openly and list your contribution to peer review in your CV, resume, or personal webpage.  
-Another option is to share the feedback with the preprint authors privately via email, but if you do this no one eles will be able to see your contribution and learn from your feedback.  
+Once the PREreview is written, you can share it openly on PREreview and get a free digital object identifier (DOI) associated with it. This will allow you and other PREreviewers to share your feedback openly and list your contribution to peer review in your CV, resume, or personal webpage. Another option is to share the feedback with the preprint authors privately via email, but if you do this no one eles will be able to see your contribution and learn from your feedback.  
 
 
 **8. Practice makes it perfect**
@@ -77,7 +76,7 @@ Below, we have written three template emails you can tweak and send to your depa
 
 *Dear students, postdocs, and faculty,*  
 
-*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department. I recently decided to contribute to ASAPbio’s effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with them, preprints are complete pieces of scientific work that have not yet undergone editorial peer review.
+*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department. I recently decided to contribute to ASAPbio’s [optional: add link] effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with them, preprints are complete pieces of scientific work that have not yet undergone editorial peer review.
 The main benefits of posting preprints are that i) you, the author(s), can immediately share your work with the scientific community (but really with everyone, since preprints are open access, i.e., free!) without having to wait for the publisher’s timeline, and ii) the community learn about your research early and can comment on the manuscript, potentially improving your work – since preprints are dynamic articles, you can incorporate the feedback and upload revisions to the preprint server of your choice.* 
 
 *Discussing preprints at JC will be beneficial to us as we will get to know the advancement in our field 6 months to a year earlier than we would if we waited for the publication. At the end of each JC, we will compile our comments into a review and post it as a public document on PREreview.org, a web platform that hosts preprint reviews and assigns them DOIs for free.
@@ -133,11 +132,11 @@ What is SPECIAL about a preprint journal club? We discuss a Preprint instead of 
 
 *But... I'm just a student, I don't know how to write reviews/make valid scientific comments... I don't either. That's why this is a discussion- we can teach each other! There will be some materials to guide us through (also so that it doesn't go on forever!). 
 
-*I have tons of experiments. I don't have time. *Free food*, and I promise it will finish within one hour.* 
+*I have tons of experiments. I don't have time. *Free food*, and I promise it will finish on time!.* 
 
 *OK I'm sold. What do I do next? Reply to this email, so I can keep you in the loop! My plan is [some specifics about the JC. You can also ask for suggestions on the format, preprints, etc.]*  
 
-*I have questions/suggestions... come talk to me! This is honestly an experiment- I would love to hear from you how to make it work (:
+*I have questions/suggestions... come talk to me! This is honestly an experiment- I would love to hear from you how to make it work :)
 
 *Best,  
 
