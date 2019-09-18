@@ -113,6 +113,7 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Template email #3: Q&A format- Good for generating initial interest, more informal
+(This template was written by Dr. Emmy Tsang.
 
 *Dear All,*
 
@@ -142,7 +143,7 @@ What is SPECIAL about a preprint journal club? We discuss a preprint instead of 
 
 *Best,*  
 
-[Your Name]
+*[Your Name]*
 
 Once you have a preprint JC set up, you can start reviewing! Sign up on prereview.org following these step-by-step instructions. We have also written some guidelines [LINK TO GUIDELINES] to help you structure your prereview.
 HAPPY PREREVIEWING!!!
