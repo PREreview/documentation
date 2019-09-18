@@ -8,11 +8,11 @@ We believe it is our duty as scientists at any level of our career to contribute
 PREreview provides a space for any researcher, independently of their career level, to provide feedback to emerging scientific output. We strive to build and support a community of PREreviewers who provide constructive feedback, because we are convinced that one can be honest AND respectful at the same time.  
 
 ## Our Responsibilities  
-The PREreview team is responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair 
+The PREreview team is responsible for clarifying the standards of acceptable behavior and is expected to take appropriate and fair 
 corrective action in response to any instances of unacceptable behavior.  
 
 The PREreview team has the right and responsibility to remove, edit, or reject comments, and other contributions that are not aligned 
-to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, 
+to this Code of Conduct, or to temporarily or permanently ban any contributor for other behaviors that they deem inappropriate, 
 threatening, offensive, or harmful. 
 
 ## Who does this Code of Conduct apply to?
@@ -21,7 +21,7 @@ This Code of Conduct applies to PREreview members contributing directly on this 
 ## Reporting Code of Conduct violations
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported personally by contacting the PREreview leadership team at **[contact@prereview.org](contact@prereview.org)**, or anonymously by filling out [this anonymous form](https://forms.gle/a4x3TX2D2XRRN7Wo6). 
 
-An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview (see below for more examples of unacceptable behavior). All complaints will be reviewed and investigated, and will  result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview (see below for more examples of unacceptable behavior). All complaints will be reviewed and investigated, and will  result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the person that reports an incident. Further details of specific enforcement policies may be posted separately.
 PREreview members who do not follow and PREreview team members who do not enforce the Code of Conduct in good faith may face temporary 
 or permanent repercussions as determined by other members of the project's leadership.
 
