@@ -96,7 +96,7 @@ Here the PREreviewer(s) can mention 3-5 minor concerns that are not critical to 
 * *In general, was the manuscript easy to follow/did it have a logical flow? Were there a lot of typos that needed addressing?*  
 * *Does the abstract provide a concise summary of the hypotheses and main results?*  
 * *Were the methods sufficiently detailed to allow the experiments to be repeated?*  
-* *Were the figures clear and logically arranged? Were the figure legends sufficiently detailed to allow the figures to be understood without reading the main text?
+* *Were the figures clear and logically arranged? Were the figure legends sufficiently detailed to allow the figures to be understood without reading the main text?*
 * *Are the figures representative of the data described in the results section?*  
 * *Did the authors make all their associated data openly available (e.g. sequencing data, coding)?*  
 * *Did the discussion address how their results move the field forwards?*  
