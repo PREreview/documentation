@@ -5,7 +5,7 @@ We are trying to tackle three major problems:
 
  **1) Lack of preprint feedback** (on bioRxiv the public comments are limited to about 10% of the total preprints).
 
-**2) Early-career researchers (ECRs)  (i.e., students, postdoctoral researchers, junior principal investigators), researchers from marginalized communities or from less known research institutions are often not involved in the peer review process.** The result is that the decision of what is published and shared openly with the community is in the hands of relatively homogeneous groups of researchers who are known to the journal editors.
+**2) Early-career researchers (ECRs) (*i.e.*, students, postdoctoral researchers, junior principal investigators), researchers from marginalized communities or from less known research institutions are often not involved in the peer review process.** The result is that the decision of what is published and shared openly with the community is in the hands of relatively homogeneous groups of researchers who are known to the journal editors.
 
 **3) Formal peer review training for ECRs is rare and varies in quality.** In our own community opinion survey, we found that only 18% of the respondents had received peer review training, even though 72% had contributed to the peer review process. This suggests that very few scientists are trained when they write their first review – and even when they are, the training may vary greatly in quality.
 At PREreview, we believe preprints offer an opportunity for every researcher to contribute to making science better and to build their skills as peer reviewers. We are now developing a peer review mentoring program based on a cohort learning model that will help with exactly that.
