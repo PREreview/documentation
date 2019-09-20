@@ -1,6 +1,6 @@
 # PREreview extended peer review guidelines
 
-Below is a detailed guide to help you critically and constructively evalute the selected preprint. For a quicker version of this guide, please select Template #1.
+Below is a detailed guide to help you critically and constructively evaluate the selected preprint. For a quicker version of this guide, please select Template #1.
 
 ## Overview and take-home message
 Write a short (1 paragraph) summary of what the main findings of the research were and how this work has moved the field forward. 
