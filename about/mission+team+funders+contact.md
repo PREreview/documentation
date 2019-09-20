@@ -1,15 +1,6 @@
 # Mission
 The core of PREreview’s mission is to support and drive the cultural change that will lead to the growth of a diverse community of trained peer reviewers. This community has the power to provide feedback at a point in the publication process when it can be implemented. We believe preprints offer an invaluable opportunity for researchers to share the outputs of their work freely and early enough to benefit from community feedback.
 
-We are trying to tackle three major problems:
-
- **1) Lack of preprint feedback** (on bioRxiv the public comments are limited to about 10% of the total preprints).
-
-**2) Early-career researchers (ECRs) (*i.e.*, students, postdoctoral researchers, junior principal investigators), researchers from marginalized communities or from less known research institutions are often not involved in the peer review process.** The result is that the decision of what is published and shared openly with the community is in the hands of relatively homogeneous groups of researchers who are known to the journal editors.
-
-**3) Formal peer review training for ECRs is rare and varies in quality.** In our own community opinion survey, we found that only 18% of the respondents had received peer review training, even though 72% had contributed to the peer review process. This suggests that very few scientists are trained when they write their first review – and even when they are, the training may vary greatly in quality.
-At PREreview, we believe preprints offer an opportunity for every researcher to contribute to making science better and to build their skills as peer reviewers. We are now developing a peer review mentoring program based on a cohort learning model that will help with exactly that.
-
 ## Why preprints?
 Over the past 30 years, publishing in the biological sciences has become a much lengthier process<sup>1</sup>. One way to separate
 the sharing of scientific outputs from quality evaluation expressed purely by the opinions of the publishers and a few peers, is posting
