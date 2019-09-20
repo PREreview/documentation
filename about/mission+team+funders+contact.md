@@ -107,7 +107,7 @@ please don't hesitate to contact us at [contact@prereview.org](contact@prereview
 
 For anonymous Code of Conduct violation, please fill out [this form](https://forms.gle/a4x3TX2D2XRRN7Wo6).
 
-[Here](https://prereview.org/docs/codeofconduct) you can learn more about our Code of Conduct.
+[Here](https://v2.prereview.org/docs/code_of_conduct) you can learn more about our Code of Conduct.
 
 Follow us on Twitter [@PREreview_](https://twitter.com/PREreview_).
 
