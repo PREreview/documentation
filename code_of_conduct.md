@@ -53,7 +53,7 @@ For example, if you believe a statistical test was used incorrectly, you may say
 
 as opposed to:  
 
-*You have no idea of what they are doing and should go back to statistics 101.*" – This is a clear violation of the PREreview Code of Conduct.  
+*"You have no idea of what they are doing and should go back to statistics 101.*" – This is a clear violation of the PREreview Code of Conduct.  
 
 In the first version of the comment, you are providing your opinion and backing it up with a reason why you think that test is inappropriate. Furthermore, you are using "the authors ..." as subject of your sentences instead of "you ..." which helps depersonalize the feedback and keep the focus on the work.
 
