@@ -1,6 +1,3 @@
-Resources tab in PREreview V2
-From GitHub.
-
 # How to write a PREreview
 
 At PREreview, we believe *all* researchers should be able to engage in honest and respectful conversations around emerging scientific
