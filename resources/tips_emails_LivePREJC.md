@@ -16,7 +16,7 @@ Here are the 5 golden rules for a great PREreview:
 4. *Be clear.* The clearer you are about what your comment or suggestion is referring to, the easier it will be for authors and readers to understand it.   
 5. *Be concise.* You can be as thorough as you have time to be, but keeping your feedback concise increases the chances authors and other readers will read through it and take action as a result of it.  
 
-More on this in our [Code of Conduct](https://prereview.org/docs/code_of_conduct).
+More on this in our [Code of Conduct](https://v2.prereview.org/docs/code_of_conduct).
 
 ## PREreview Templates
 
