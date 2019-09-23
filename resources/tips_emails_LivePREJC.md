@@ -57,7 +57,8 @@ Below is a detailed guide to help you critically and constructively evalute the 
 #### Overview and take-home message
 Write a short (1 paragraph) summary of what the main findings of the research were and how this work has moved the field forward.
 This could take the following structure:
-“*[First author]* et al. have made significant advances in *[x, y and z]* by showing that… In addition, they have bridged the gap in
+
+“ *[First author]* et al. have made significant advances in *[x, y and z]* by showing that… In addition, they have bridged the gap in
 our knowledge about how *[process i interacts with process ii]*. Although this work is of *[significant]* interest to the field, there
 are some concerns that could be addressed in the next version. These are outlined below.”
 
@@ -180,7 +181,7 @@ Below, we have written three template emails you can tweak and send to your depa
 
 *Dear students, postdocs, and faculty,*  
 
-*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department. I recently decided to contribute to ASAPbio’s [optional: add link] effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with them, preprints are complete pieces of scientific work that have not yet undergone editorial peer review.   
+*I am … [Introduce yourself if you are not already known by everyone]. I would like to start a preprint journal club (JC) in our department. I recently decided to contribute to ASAPbio’s [optional: add link] effort to promote the use and dissemination of preprints in academia. For those of you who are not familiar with them, preprints are complete pieces of scientific work that have not yet undergone editorial peer review.*   
 
 *The main benefits of posting preprints are that i) you, the author(s), can immediately share your work with the scientific community (but really with everyone, since preprints are open access, i.e., free!) without having to wait for the publisher’s timeline, and ii) the community learn about your research early and can comment on the manuscript, potentially improving your work – since preprints are dynamic articles, you can incorporate the feedback and upload revisions to the preprint server of your choice.* 
 
@@ -192,9 +193,10 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 
 *If you want to help me organize the Preprint JC, please reply to this email. Ideally I would like to meet for JC weekly or every other week, at a time and day of the week that best work for everybody who is interested.*  
 
-*Thank you,*    
+*Thank you,*   
 
-*[Your name]*
+*[Your Name]*
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Template email #2: Short(er) and to the point
 
@@ -210,7 +212,8 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 
 *Thank you,*    
 
-*[Your Nam]*
+*[Your Name]*
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Template email #3: Q&A format- Good for generating initial interest, more informal
 (This template was written by Dr. Emmy Tsang, now Innovation Officer at eLIFE)
@@ -218,7 +221,7 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 *Dear All,*  
 
 *I'm running a Preprint Journal Club*. 
-*30-second summary*: if you have an hour to spare to discuss latest science, help fellow researchers, make a difference to publishing, and eat [food], [put your name here/reply to this email]* 
+*30-second summary: if you have an hour to spare to discuss latest science, help fellow researchers, make a difference to publishing, and eat [food], [put your name here/reply to this email]* 
 
 *What is a Preprint? A manuscript that has yet undergone journal-organized peer review.*    
 
@@ -242,10 +245,7 @@ What is SPECIAL about a preprint journal club? We discuss a preprint instead of 
 
 *Best,*    
 
-*[Your Name]*  
-
-Once you have a preprint JC set up, you can start reviewing! Sign up on prereview.org following these step-by-step instructions. We have also written some guidelines [LINK TO GUIDELINES] to help you structure your prereview.
-HAPPY PREREVIEWING!!!
+*[Your Name]* 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Template email #4: send it to the preprint's corresponding author after you publish your review
@@ -258,9 +258,10 @@ HAPPY PREREVIEWING!!!
 
 *Kind regards,*  
 
-*[Your Name]*  
+*[Your Name]*
 
-## How to start and lead a Live-Streamed PREreview JC
+
+# How to start and lead a Live-Streamed PREreview JC
  
 Live-streamed preprint journal clubs (#LivePREJC) are topic-centered, interactive preprint journal clubs that are live-streamed via videoconference. These events are designed to be inclusive by allowing structured and constructive discussions around preprints and encouraging diverse methods of participation. Researchers – or anyone interested in joining the discussion – from all over the world can join to build their network, meet globally-renowned experts, and collaborate on improving a preprint. Previous live-streamed preprint JCs we have organized attracted participation from researchers, students, publishers and artists!  
 
@@ -280,7 +281,7 @@ silent writing (etherpadding)
 * *Fun*: even though the discussions are kept professional and centered around providing constructive feedback to the preprint, 
 they are a fun way to meet other people interested in the field.
 
-### To get started
+## To get started
 1. Choose a preprint you wish to discuss at a Live-streamed preprint JC.  
     
 2. If you can, make a list of a few other scientists or other interested professionals, preferably at different career levels and from different institutions, who you think would be interested in participating in the discussion of the chosen preprint. If you can't think of anyone to invite, don't despair... our team will help you recruit more participants.  
@@ -288,7 +289,7 @@ they are a fun way to meet other people interested in the field.
 3. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdlpfxK0XEeVbUD7aHBKLf6g7rOups-uS2ZytpDKdHNBHwNZg/viewform) 
 to request our support to run the Live-streamed preprint JC. 
 
-### What to expect
+## What to expect
 1. Our team will help you organize the call by providing a registration form, a customed Etherpad for collaborative note-taking (example from a previous Live-streamed preprint JC [here](https://etherpad.net/p/NeuroscienceLiveStreamedPREJC)), and access to a [Zoom](https://zoom.us/) virtual room (up to 100 participants). We will also send out an email to participants who you have identified or who have signed up to participate with instructions on how to join the Live-streamed preprint JC. Participants will be encouraged to read the preprint before the event, to keep the discussion short and focused. 
 
 2. Should you desire, we will help you recruit participants by inviting people in our network and advertising the event on social media using the #LivePREJC hashtag – and any other hashtags related to the research field of the preprint discussed.
