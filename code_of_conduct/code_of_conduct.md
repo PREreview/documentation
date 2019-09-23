@@ -88,7 +88,7 @@ If after considering the suggestion(s) made by the PREreviewer(s) you still beli
 
 Remember that PREreviewers are community members who are here to help you improve your manuscript and provide more trasparency to the evaluation process of scholarly outputs – in this case, of preprints. They are finding time in their busy schedules to help you. Be polite, respectful, and grateful for their contribution. 
 
-We invite you to reply to the PREreview with a comment, thanking the PREreviewer(s) for their time. If you found the PREreview particularly helpful, give it a Plaudit and consider acknowledging the PREreviewers in a new version of the preprint and the final version of the manuscript issued for publication. 
+We invite you to reply to the PREreview with a comment, thanking the PREreviewer(s) for their time. If you found the PREreview particularly helpful, give it a [Plaudit](https://plaudit.pub/) and consider acknowledging the PREreviewers in a new version of the preprint and the final version of the manuscript issued for publication. 
 
 If you believe the content of a PREreview or a comment violates our Code of Conduct, please report the incidence immediately by emailing us at [contact@prereview.org](contact@prereview.org) and we will do our best to act according to our policy. 
 
