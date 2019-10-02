@@ -11,18 +11,18 @@ Please report any unacceptable behavior to contact@prereview.org or by filling [
 
 ## How can you contribute? 
 
-* 1. Help us build the PREreview community sharing your contribution and thoughts about PREreview on social media using the #PREreview and/or
+* Help us build the PREreview community sharing your contribution and thoughts about PREreview on social media using the #PREreview and/or
 [@PREreview_](https://twitter.com/PREreview_) handle. 
 
-* 2. Join our [Slack](https://join.slack.com/t/prereview/shared_invite/enQtNzYzNDE5NTE3MDYxLWU5ZmIzMmI4OGVhMWMwY2I5ZTllM2JhYzNmMTBkMzBiZWUzOGEzMzQ3ZWY1MDRiNzA2NDRjYWE1MmE5MGI3MDM). 
+* Join our [Slack](https://join.slack.com/t/prereview/shared_invite/enQtNzYzNDE5NTE3MDYxLWU5ZmIzMmI4OGVhMWMwY2I5ZTllM2JhYzNmMTBkMzBiZWUzOGEzMzQ3ZWY1MDRiNzA2NDRjYWE1MmE5MGI3MDM). 
 PREreviw [Code of Conudct](https://prereview.org/docs/codeofconduct) applies.
 
-* 3. Start a PREreview journal club, either local or remote. [Here](https://prereview.org/docs/resources) are some tips.
+* Start a PREreview journal club, either local or remote. [Here](https://prereview.org/docs/resources) are some tips.
 
-* 4. Help us develop the PREreview mentorship program. This program is under development. Please contact us at contact@prereview.org or raise an issue here with the label "Mentoring" and we will get back to you.
+* Help us develop the PREreview mentorship program. This program is under development. Please contact us at contact@prereview.org or raise an issue here with the label "Mentoring" and we will get back to you.
 
-* 5. Help us fix typos, add useful links, or write new resources by raising an issue with the label "bug", or "documentation", or by issuing a pull request in this repository. 
+* Help us fix typos, add useful links, or write new resources by raising an issue with the label "bug", or "documentation", or by issuing a pull request in this repository. 
 
-* 6. Get involved in the wider preprint community by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
+* Get involved in the wider preprint community by signing up as an [ASAPbio Ambassador](http://asapbio.org/asapbio-ambassadors).
 
 THANK YOU!!!
