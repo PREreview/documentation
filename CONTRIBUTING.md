@@ -5,7 +5,7 @@ work with us on this project.
 
 ## Contributing guidelines
 
-Before getting started with contributing, please read PREreview [Code of Conudct](https://prereview.org/docs/codeofconduct).
+Before getting started with contributing, please read PREreview [Code of Conudct](https://v2.prereview.org/docs/code_of_conduct).
 
 Please report any unacceptable behavior to contact@prereview.org or by filling [this anonymous form](https://forms.gle/pyYvw3PB5L4B49oN6).
 
