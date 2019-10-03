@@ -5,7 +5,7 @@ output. Peer review is a fundamental aspect of being a researcher. However, form
 
 Our hope is that by engaging in open peer review of preprints, possibly collaboratively as a result of a discussion at journal club, researchers will have the chance to practice peer review in the safe and welcoming environment provided by PREreview, and learn from other openly shared PREreviews and comments.
 
-Here are the 5 golden rules for a great PREreview:
+Here are the **5 golden rules** for a great PREreview:
 
 1. *Be respectful.* We are all human beings and we all make mistakes. The goal here is to help each other move knowledge and discovery forward and not make your peers feel diminished or personally attacked by disrespectful comments.   
 2. *Be constructive.* Similarly, you need to make sure feedback stays constructive and actionable so that preprint authors can easily respond to the feedback and possibly incorporate the constructive suggestions into the final publication.   
@@ -13,15 +13,48 @@ Here are the 5 golden rules for a great PREreview:
 4. *Be clear.* The clearer you are about what your comment or suggestion is referring to, the easier it will be for authors and readers to understand it.   
 5. *Be concise.* You can be as thorough as you have time to be, but keeping your feedback concise increases the chances authors and other readers will read through it and take action as a result of it.  
 
-More on this in our [Code of Conduct](https://v2.prereview.org/docs/code_of_conduct).
+## Giving constructive feedback
 
-## PREreview Templates
+Giving feedback is hard. Doing so constructively can be even more challenging. But what does "constructive" mean in the context of PREreview? Does it mean that you can only express positive comments related to a study? No. With constructive feedback we refer to feedback that can be used by the authors to improve their manuscript. That includes providing negative feedback on the use of a statistical test for example, or on the interpretability of a particular bar plot. However, that same negative feedback has to be provided using respectful language and in a way to allow the authors to fix the problem.   
+
+For example, if you believe a statistical test was used incorrectly, you may say:  
+
+*"Statistical test [test1 name] should be used only if the data is distributed normally. The data presented in this preprint appear to be highly skewed to the left, and for that I would suggest the use of [test2 name] test, a non-parametric version of [test name1] which makes no assumption on the parameters of the distribution of the data. If the authors' choice of [test1 name] is motivated by a particular strategy or other non-obvious analytical constraints, I recommend the authors explicitly mention that in the Methods section justifying their choice accordingly."* – This is constructive!
+
+as opposed to:  
+
+*"You have no idea of what they are doing and should go back to statistics 101.*" – This is a clear violation of the PREreview Code of Conduct.  
+
+In the first version of the comment, you are providing your opinion and backing it up with a reason why you think that test is inappropriate. Furthermore, you are using "the authors ..." as subject of your sentences instead of "you ..." which helps depersonalize the feedback and keep the focus on the work.
+
+In the second version of the comment, you are clearly attacking the author at a personal level and insulting their education, which is not only offensive, unprofessional, and a clear violation of the Code of Conduct, but it is also useless to the authors as it does not provide a way to improve the study.
+
+Remember, **you can be honest and constructive at the same time!**
+
+As our friends at [PLoS](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) say, try to follow the golden rule: "Write the type of review you’d want to receive if you were the author." 
+
+For additional precious tips on how to provide constructive feedback, explore the [PLoS Peer Reviewer Center](http://reviewers.plos.org/).## Being on the receiving end of feedback
+
+We established that giving feedback can be challenging, but it can (and should) be done constructively following some tips. What about receiving feedback? The world often does not prepare us to receive feedback either. Often even if feedback is given constructively, we tend to take it personally and assume that the person who gave us feedback is deliberately challenging our identity as people. 
+
+If that is your first reaction to a comment, read it again and try to imagine how you would have given that same suggestion to your peer if you had any reason to believe, like in the example above, a statistical test was not used correctly. 
+
+If after considering the suggestion(s) made by the PREreviewer(s) you still believe the way you and your team analyzed the data is correct, provide an explanation of why. You can also consider asking the PREreviewer for further explanation around the suggestion, with examples and evidence to back it up. 
+
+Remember that PREreviewers are community members who are here to help you improve your manuscript and provide more trasparency to the evaluation process of scholarly outputs – in this case, of preprints. They are finding time in their busy schedules to help you. Be polite, respectful, and grateful for their contribution. 
+
+We invite you to reply to the PREreview with a comment, thanking the PREreviewer(s) for their time. If you found the PREreview particularly helpful, give it a [Plaudit](https://plaudit.pub/) and consider acknowledging the PREreviewers in a new version of the preprint and the final version of the manuscript issued for publication. 
+
+If you believe the content of a PREreview or a comment violates our Code of Conduct, please report the incidence immediately by emailing us at [contact@prereview.org](contact@prereview.org) and we will do our best to act according to our policy. 
+
+
+# PREreview Templates
 
 In order to help you write a PREreview, we have two basic templates you can load directly into the editing window when you write your PREreview. Below is the content of these two templates. Template 1 is a quick questionnaire you can copy and paste in a collaborative document during journal club, for example, or load to guide you in the review process. Template 2 is a guide for a more detailed report you might want to write, more similar to what you would be asked to write if you were selected as a reviewer for a journal.
 
 We are keen to update them based on your feedback, so please don't hesitate to contact us with any suggestions or questions at [contact@prereview.org](contact@prereview.org).
 
-### Template 1
+## Template 1
 
 Below is a list of quick questions you can use to guide your reading and reviewing of the selected preprint to produce a quick review. For a more detailed template and tips, please load Template #2.  
 
@@ -50,11 +83,11 @@ ability to understand the results just by looking at the figures).
 * Write here any additional comment you might have (this includes minor concerns such as typos and structure of the manuscript).
 
 
-### Template 2
+## Template 2
 
 Below is a detailed guide to help you critically and constructively evalute the selected preprint. For a quicker version of this guide, please select Template #1.
 
-#### Overview and take-home message
+### Overview and take-home message
 Write a short (1 paragraph) summary of what the main findings of the research were and how this work has moved the field forward.
 This could take the following structure:
 
@@ -62,7 +95,7 @@ This could take the following structure:
 our knowledge about how *[process i interacts with process ii]*. Although this work is of *[significant]* interest to the field, there
 are some concerns that could be addressed in the next version. These are outlined below.”
 
-#### Positive feedback
+### Positive feedback
 As the aim of this PREreview is to support the authors by providing constructive feedback, the PREreviewer(s) should also
 include positive remarks to encourage future posting of preprints. Remember, the authors are human too! To help guide you, here are a
 few questions you might ask yourself after reading the preprint:
@@ -75,12 +108,12 @@ the structure of the manuscript if it is clear and logical, etc.*
 * *What ideas for further research are based on the preprint? [Note: this encourages preprint authors for their early sharing
 and promotes openness among reviewers as well.]*
 
-#### Concerns
+### Concerns
 Next are your concerns. Remember you are writing to another human being, so be respectful and realistic. Also, if you are unsure about
 something, be honest and say you are unsure. Don’t feel afraid to admit if you are not confident about your concerns, or part of the work
 is out of your area of expertise.
 
-#### Major concerns:
+### Major concerns:
 Here the reviewer(s) should list 2-3 major concerns about the research (if they exist). This may relate to:
 
 * *Does the title accurately reflect the results?*  
@@ -91,7 +124,7 @@ methods used?*
 * *Are there big flaws in the understanding of the current literature and interpretation of the literature that might undermine the
 interpretation of the current results?*  
 
-#### Minor concerns:
+### Minor concerns:
 Here the PREreviewer(s) can mention 3-5 minor concerns that are not critical to the understanding and conclusions of the research, but would improve the overall flow or clarity of the manuscript. These concerns might include the following questions:
 
 * *In general, was the manuscript easy to follow/did it have a logical flow? Were there a lot of typos that needed addressing?*  
@@ -144,7 +177,7 @@ You can also use Template 1 (see above) to guide the discussion with some pre-wr
 
 **5. Keep it constructive**  
 
-*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcome to participate. Encourage respectful and constructive comments. As we mention in our [Code of Conduct](https://v2.prereview.org/docs/code_of_conduct), being constructive does not necessarily equal limiting comments to positive ones. Remind JC participants that being constructive means providing feedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found to be needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
+*Set the right tone*: Arguably the most important of all tips. We cannot emphasize enough how important it is to set the right tone for the discussion to ensure everyone feels safe and welcome to participate. Encourage respectful and constructive comments. As we mention above, being constructive does not necessarily equal limiting comments to positive ones. Remind JC participants that being constructive means providing feedback that is useful to the authors and the PREreview's reader. Encourage *actionable* and possibly *detailed* feedback, rich in examples and perhaps even suggestions on how to do something differently if found to be needed. Note that one section of our CoC is dedicated to the preprint JC. We encourage you to read this aloud or summarize the main points to the JC participants.  
 
 **6. Write the PREreview**  
 
@@ -152,7 +185,7 @@ You can also use Template 1 (see above) to guide the discussion with some pre-wr
 
 *Choose a template*: On the new PREreview platform, you have the option to choose one of two available templates. The first one is a quick questionnaire that will guide you and other JC participants through a constructive discussion of the preprint. The second one is a longer and more detailed guide that will help you craft a complete report similar to what you would do if you were peer reviewing for a journal. 
 
-*Keep it constructive and simple*: As we said in tip 5, keep your feedback constructive and actionable, so that it is simple for the authors to integrate into the manuscript. Also remember that any content on PREreview that violates the CoC will be removed from the site, and the author(s) of those comments may be permanently banned from the community. Read more in our [CoC](https://v2.prereview.org/docs/code_of_conduct).  
+*Keep it constructive and simple*: As we said in tip 5, keep your feedback constructive and actionable, so that it is simple for the authors to integrate into the manuscript. Also remember that any content on PREreview that violates the CoC will be removed from the site, and the author(s) of those comments may be permanently banned from the community. See below for additional tips on how to ensure everyone respects the CoC during JC discussions.  
 
 **7. Share your PREreview**  
 
@@ -173,6 +206,28 @@ Once the PREreview is written, you can share it openly on PREreview and get a fr
 *Check out our email templates* to help you get started with the JC in your department or our tips on how to lead a live-streamed preprint JC (see below). 
 
 *[The PLoS Reviewer Center](http://reviewers.plos.org/)* has many, many resources to help guide you through the peer review process with [do's and don'ts](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) that are very useful when applied to any feedback you may be giving to your peers.   
+
+## Additional tips for creating a safe space
+To encourage a respectful and thriving preprint JC environment, we have additional tips we strongly recommend you follow for hosting and participating in local and online (live-streamed) preprint JCs.
+
+### Points to consider when organizing a preprint JC
+
+* Before each journal club meets, allow an anonymous vote in which all participants have the opportunity to express any discomfort or conflict of interest related to reviewing a particular preprint. One vote against the preprint is sufficient to veto that preprint for discussion at the JC. This will help to create a safe environment for all your JC participants.
+
+* Note-taking should be encouraged for all participants. However, we recommend that you assign one primary note-taker for each JC and have a system to rotate this responsibility across all JC members so that stereotypes, for example, that women should take notes, do not permeate this process. 
+
+* Responsiblity for hosting the preprint JC should rotate between all members of the JC, and this should be scheduled well in advance to allow for preparation. 
+
+* All contributions to the PREreview should be acknowledged, if desired by the contributor, within the PREreview. What constitutes authorship should be pre-determined prior to compiling the review.
+
+### Points to consider when participating in a preprint JC
+
+* Be respectful of other participant's contributions and do not dismiss their comments in an aggressive manner.
+
+* Acknowledge and amplify constructive comments that have been overlooked.
+
+* Be aware when you or others are dominating the discussing and allow space for other participants to contribute.
+
 
 # Email templates to get started  
 Below, we have written three template emails you can tweak and send to your department to invite students, postdoc, and faculty to join the Preprint JC.  
