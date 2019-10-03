@@ -33,7 +33,9 @@ Remember, **you can be honest and constructive at the same time!**
 
 As our friends at [PLoS](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) say, try to follow the golden rule: "Write the type of review you’d want to receive if you were the author." 
 
-For additional precious tips on how to provide constructive feedback, explore the [PLoS Peer Reviewer Center](http://reviewers.plos.org/).## Being on the receiving end of feedback
+For additional precious tips on how to provide constructive feedback, explore the [PLoS Peer Reviewer Center](http://reviewers.plos.org/).
+
+## Being on the receiving end of feedback
 
 We established that giving feedback can be challenging, but it can (and should) be done constructively following some tips. What about receiving feedback? The world often does not prepare us to receive feedback either. Often even if feedback is given constructively, we tend to take it personally and assume that the person who gave us feedback is deliberately challenging our identity as people. 
 
