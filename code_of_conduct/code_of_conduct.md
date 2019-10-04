@@ -43,18 +43,22 @@ or permanent repercussions as determined by other members of the project's leade
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-## Conflict of Interest
+## Conflict of Interest/Competing interest
 What is considered conflict of interest (CoI) at PREreview and why should you care about them?
 
-CoI comes in many shapes and forms. Here is the official definition that PREreview adapted from the [PLoS Reviewer Center](http://reviewers.plos.org/resources/competing-interests-for-reviewers/):  
+CoI comes in many shapes and forms. In general, as defined on [Wikipedia](https://en.wikipedia.org/wiki/Conflict_of_interest), a CoI emerges when "a person or organization is involved in multiple interests, financial or otherwise, and serving one interest could involve working against another."
 
-*"A CoI is anything that interferes with, or could reasonably be perceived as interfering with, the full and objective presentation and PREreview of a published preprint."
+In the context of peer review, PLoS refers to it as competing interest and defines it as follows [PLoS Reviewer Center](http://reviewers.plos.org/resources/competing-interests-for-reviewers/):  
 
-A CoI can be financial or non-financial, professional, or personal. It can arise in relationship to an organization, a department, a laboratory, or a person.
+*"A competing interest is anything that interferes with, or could reasonably be perceived as interfering with, the full and objective presentation and PREreview of a published preprint."*
 
-CoIs matter because they can introduce perceived or actual bias in the evaluation of the preprint that can have repercussions all the way to the journal acceptance of that manuscript. 
+A competing interest can be financial or non-financial, professional, or personal. It can arise in relationship to an organization, a department, a laboratory, or a person.
 
-To read more about CoI in peer review, please refer once again to the [PLoS Reviwer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your CoI in relation to a manuscript. **If you find that you have a potential CoI with the authors, please do disclose it in your PREreview.**
+Competing interests matter because they can introduce perceived or actual bias in the evaluation of the preprint that can have repercussions all the way to the journal acceptance of that manuscript. 
+
+To read more about competing interests in peer review, please refer to the [PLoS Reviwer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your possible competing interest in relation to a manuscript you wish to review or comment. 
+
+**If you find that you have a potential conflifct with the authors, or the organization to which the author(s) is affiliated, please do disclose it in your PREreview. A failure in disclosing a competing interest is considered a violation of the PREreview Code of Conduct and will be treated accordingly. **
 
 
 The content of this page was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and from [PLoS Peer Reviewer Center](http://reviewers.plos.org/). If you have questions, feedback (please constructive only!), or suggestions on how to improve it, please contact us at contact@prereview.org. 
