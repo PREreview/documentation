@@ -58,7 +58,7 @@ Competing interests matter because they can introduce perceived or actual bias i
 
 To read more about competing interests in peer review, please refer to the [PLoS Reviwer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your possible competing interest in relation to a manuscript you wish to review or comment. 
 
-**If you find that you have a potential conflifct with the authors, or the organization to which the author(s) is affiliated, please do disclose it in your PREreview. A failure in disclosing a competing interest is considered a violation of the PREreview Code of Conduct and will be treated accordingly. **
+**If you find that you have a potential conflifct with the authors, or the organization to which the author(s) is affiliated, please do disclose it in your PREreview. A failure in disclosing a competing interest is considered a violation of the PREreview Code of Conduct and will be treated accordingly.**
 
 
 The content of this page was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and from [PLoS Peer Reviewer Center](http://reviewers.plos.org/). If you have questions, feedback (please constructive only!), or suggestions on how to improve it, please contact us at contact@prereview.org. 
