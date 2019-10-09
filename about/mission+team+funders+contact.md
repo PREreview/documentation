@@ -42,20 +42,20 @@ The new PREreview open-source platform is designed from the ground up to engage 
 PREreview is lead by Drs. Daniela Saderi, Sam Hindle, and Monica Granados. We operate under the fiscal sponsorship of the non-profit organization [Code for Science & Society (CS&S)](https://codeforscience.org/).
 
 ### Daniela Saderi, Ph.D. – Co-Founder, Project Director
-![Daniela](../images/daniela_bw_small.jpg)
+![Daniela](/assets/images/daniela_bw_small.jpg)
 
 Daniela was a Mozilla Fellow for Science in 2018/2019. She has recently earned a Ph.D. in neuroscience at Oregon Health and Science University, in Portland OR, USA. During her time as a student, she became increasingly interested in how open practices can be used to empower early-career researchers in taking ownership over their work, and to facilitate collaborations within and across teams. Daniela enjoys cooking and eating good vegetarian food (she is Italian, after all!), rock climbing, and reading biographies and up-lifting books with her two black cats on her lap.  
 Email: [daniela@prereview.org](daniela@prereview.org)
 
 ### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Partnerships Lead  
-![Sam](../images/sam_bw_small.jpg)
+![Sam](/assets/images/sam_bw_small.jpg)
 
 Sam is the Content Lead at [bioRxiv](https://www.biorxiv.org/) - the leading preprint server for the life sciences - where she guides and supports the editorial team, helps to implement innovative updates to the server, and engages in advocacy efforts to promote equity in access to scientific discoveries through preprints. At PREreview she manages the peer review training program and resource generation, and is the primary lead for stakeholder relationships. Sam is also a Neuroscientist and master of _Drosophila_ brain dissections. When she is not immersed in the world of preprints, she will likely have her camera in hand trying to frame a beautiful landscape scene, or reflecting on ways of being more present and other-centered.
 Email: [sam@prereview.org](sam@prereview.org)
 
 
 ### Monica Granados, Ph.D. – Community Building and Outreach Lead  
-![Monica](../images/monica_bw_small.png)
+![Monica](/assets/images/monica_bw_small.png)
 
 Monica joined the PREreview team in January 2018, first as a member of the Advisory Committee, and then as the lead of community building and outreach. She is a Mitacs Canadian Science Policy Fellow working as a Policy Analyst at Environment and Climate Change Canada in open science.
 As a food web ecologist, she has been dedicated to using the current knowledge around food webs to monitor changes in freshwater
@@ -98,7 +98,7 @@ please don't hesitate to contact us at [contact@prereview.org](contact@prereview
 
 For anonymous Code of Conduct violation, please fill out [this form](https://forms.gle/a4x3TX2D2XRRN7Wo6).
 
-[Here](https://v2.prereview.org/docs/code_of_conduct) you can learn more about our Code of Conduct.
+[Here](/docs/code_of_conduct) you can learn more about our Code of Conduct.
 
 Follow us on Twitter [@PREreview_](https://twitter.com/PREreview_).
 
