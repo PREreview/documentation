@@ -1,5 +1,9 @@
 # How to write a PREreview
 
+## Table of Contents
+
+## Introduction
+
 At PREreview, we believe *all* researchers should be able to engage in honest and respectful conversations around emerging scientific
 output. Peer review is a fundamental aspect of being a researcher. However, formal training in it is uncommon and varies in quality.
 
@@ -50,13 +54,13 @@ We invite you to reply to the PREreview with a comment, thanking the PREreviewer
 If you believe the content of a PREreview or a comment violates our Code of Conduct, please report the incidence immediately by emailing us at [contact@prereview.org](contact@prereview.org) and we will do our best to act according to our policy. 
 
 
-# PREreview Templates
+## PREreview Templates
 
 In order to help you write a PREreview, we have two basic templates you can load directly into the editing window when you write your PREreview. Below is the content of these two templates. Template 1 is a quick questionnaire you can copy and paste in a collaborative document during journal club, for example, or load to guide you in the review process. Template 2 is a guide for a more detailed report you might want to write, more similar to what you would be asked to write if you were selected as a reviewer for a journal.
 
 We are keen to update them based on your feedback, so please don't hesitate to contact us with any suggestions or questions at [contact@prereview.org](contact@prereview.org).
 
-## Template 1
+### Template 1
 
 Below is a list of quick questions you can use to guide your reading and reviewing of the selected preprint to produce a quick review. For a more detailed template and tips, please load Template #2.  
 
@@ -85,7 +89,7 @@ ability to understand the results just by looking at the figures).
 * Write here any additional comment you might have (this includes minor concerns such as typos and structure of the manuscript).
 
 
-## Template 2
+### Template 2
 
 Below is a detailed guide to help you critically and constructively evalute the selected preprint. For a quicker version of this guide, please select Template #1.
 
@@ -145,9 +149,9 @@ These resources include checklists, videos, and further information about ethica
 etc. They also provide suggested language you can use to address common issues that can arise when reviewing a manuscript.
 
 
-# How to start a preprint journal club
+## How to start a preprint journal club
 
-## 10 simple tips – also available as slides [here](https://docs.google.com/presentation/d/10WriZAFO_vE9buB04q6tw4gzYqBR56R4puHVKGKVw0U/edit?usp=sharing)
+### 10 simple tips – also available as slides [here](https://docs.google.com/presentation/d/10WriZAFO_vE9buB04q6tw4gzYqBR56R4puHVKGKVw0U/edit?usp=sharing)
 
 **1. Find your community**  
 
@@ -209,10 +213,10 @@ Once the PREreview is written, you can share it openly on PREreview and get a fr
 
 *[The PLoS Reviewer Center](http://reviewers.plos.org/)* has many, many resources to help guide you through the peer review process with [do's and don'ts](http://reviewers.plos.org/resources/how-to-write-a-peer-review/) that are very useful when applied to any feedback you may be giving to your peers.   
 
-## Additional tips for creating a safe space
+### Additional tips for creating a safe space
 To encourage a respectful and thriving preprint JC environment, we have additional tips we strongly recommend you follow for hosting and participating in local and online (live-streamed) preprint JCs.
 
-### Points to consider when organizing a preprint JC
+#### Points to consider when organizing a preprint JC
 
 * Before each journal club meets, allow an anonymous vote in which all participants have the opportunity to express any discomfort or conflict of interest related to reviewing a particular preprint. One vote against the preprint is sufficient to veto that preprint for discussion at the JC. This will help to create a safe environment for all your JC participants.
 
@@ -222,7 +226,7 @@ To encourage a respectful and thriving preprint JC environment, we have addition
 
 * All contributions to the PREreview should be acknowledged, if desired by the contributor, within the PREreview. What constitutes authorship should be pre-determined prior to compiling the review.
 
-### Points to consider when participating in a preprint JC
+#### Points to consider when participating in a preprint JC
 
 * Be respectful of other participant's contributions and do not dismiss their comments in an aggressive manner.
 
@@ -231,10 +235,10 @@ To encourage a respectful and thriving preprint JC environment, we have addition
 * Be aware when you or others are dominating the discussing and allow space for other participants to contribute.
 
 
-# Email templates to get started  
+## Email templates to get started  
 Below, we have written three template emails you can tweak and send to your department to invite students, postdoc, and faculty to join the Preprint JC.  
 
-### Template email #1 (long and informational): Invite your colleagues to join you
+#### Template email #1 (long and informational): Invite your colleagues to join you
 
 *Dear students, postdocs, and faculty,*  
 
@@ -255,7 +259,7 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 *[Your Name]*
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-### Template email #2: Short(er) and to the point
+#### Template email #2: Short(er) and to the point
 
 *Dear students, postdocs, and faculty,*   
 
@@ -272,7 +276,7 @@ Our first meeting will be on … at the .... Join us and let’s learn together!
 *[Your Name]*
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-### Template email #3: Q&A format- Good for generating initial interest, more informal
+#### Template email #3: Q&A format- Good for generating initial interest, more informal
 (This template was written by Dr. Emmy Tsang, now Innovation Officer at eLIFE)
 
 *Dear All,*  
@@ -305,7 +309,7 @@ What is SPECIAL about a preprint journal club? We discuss a preprint instead of 
 *[Your Name]* 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-### Template email #4: send it to the preprint's corresponding author after you publish your review
+#### Template email #4: send it to the preprint's corresponding author after you publish your review
 
 *Dear [corresponding author's name],* 
 
@@ -318,7 +322,7 @@ What is SPECIAL about a preprint journal club? We discuss a preprint instead of 
 *[Your Name]*
 
 
-# How to start and lead a Live-Streamed PREreview JC
+## How to start and lead a Live-Streamed PREreview JC
  
 Live-streamed preprint journal clubs (#LivePREJC) are topic-centered, interactive preprint journal clubs that are live-streamed via videoconference. These events are designed to be inclusive by allowing structured and constructive discussions around preprints and encouraging diverse methods of participation. Researchers – or anyone interested in joining the discussion – from all over the world can join to build their network, meet globally-renowned experts, and collaborate on improving a preprint. Previous live-streamed preprint JCs we have organized attracted participation from researchers, students, publishers and artists!  
 
@@ -338,7 +342,7 @@ silent writing (etherpadding)
 * *Fun*: even though the discussions are kept professional and centered around providing constructive feedback to the preprint, 
 they are a fun way to meet other people interested in the field.
 
-## To get started
+### To get started
 1. Choose a preprint you wish to discuss at a Live-streamed preprint JC.  
     
 2. If you can, make a list of a few other scientists or other interested professionals, preferably at different career levels and from different institutions, who you think would be interested in participating in the discussion of the chosen preprint. If you can't think of anyone to invite, don't despair... our team will help you recruit more participants.  
@@ -346,7 +350,7 @@ they are a fun way to meet other people interested in the field.
 3. Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdlpfxK0XEeVbUD7aHBKLf6g7rOups-uS2ZytpDKdHNBHwNZg/viewform) 
 to request our support to run the Live-streamed preprint JC. 
 
-## What to expect
+### What to expect
 1. Our team will help you organize the call by providing a registration form, a customed Etherpad for collaborative note-taking (example from a previous Live-streamed preprint JC [here](https://etherpad.net/p/NeuroscienceLiveStreamedPREJC)), and access to a [Zoom](https://zoom.us/) virtual room (up to 100 participants). We will also send out an email to participants who you have identified or who have signed up to participate with instructions on how to join the Live-streamed preprint JC. Participants will be encouraged to read the preprint before the event, to keep the discussion short and focused. 
 
 2. Should you desire, we will help you recruit participants by inviting people in our network and advertising the event on social media using the #LivePREJC hashtag – and any other hashtags related to the research field of the preprint discussed.

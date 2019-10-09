@@ -1,7 +1,11 @@
-# Mission
+# About
+
+## Table of Contents
+
+## Mission
 The core of PREreview’s mission is to support and drive the cultural change that will lead to the growth of a diverse community of trained peer reviewers. This community has the power to provide feedback at a point in the publication process when it can be implemented. We believe preprints offer an invaluable opportunity for researchers to share the outputs of their work freely and early enough to benefit from community feedback.
 
-## Why preprints?
+### Why preprints?
 Over the past 30 years, publishing in the biological sciences has become a much lengthier process<sup>1</sup>. One way to separate
 the sharing of scientific outputs from quality evaluation expressed purely by the opinions of the publishers and a few peers, is posting
 your manuscript as a preprint.
@@ -15,7 +19,7 @@ larger and more diverse pool of experts;
 3) Writing and sharing reviews helps train early-career researchers in the norms of constructive peer review;  
 4) As citable objects, preprints and their reviews can be used as proof of productivity and engagement for career advancement.
 
-## Why community peer review of preprints?
+### Why community peer review of preprints?
 
 * __Expand and diversify the pool of peer reviewers__  
 The current system of scientific peer review is flawed. Research is evaluated by a handful of unpaid reviewers selected by journal editors as “experts” in the field. Two or sometimes three reviewers are chosen opaquely, often through personal connections. Behind closed doors, they decide the fate of a research article, largely basing their evaluation on subjective criteria. Paradoxically, while peer review is a key component for scientific dissemination, very few scientists receive any formal training in it.
@@ -37,24 +41,24 @@ Thus, we need better ways to find, train, and engage researchers in peer review,
 The new PREreview open-source platform is designed from the ground up to engage the whole scientific community with collaborative and constructive peer review on preprints. Some of the key features of the new PREreview platform include the ability for users to sign-in with their ORCID IDs (with optional pseudonymity), solicit preprint feedback, leave comments, and endorse others’ reviews, all in accordance with PREreview’s Code of Conduct.
 
 
-# Leadership Team
+## Leadership Team
 
 PREreview is lead by Drs. Daniela Saderi, Sam Hindle, and Monica Granados. We operate under the fiscal sponsorship of the non-profit organization [Code for Science & Society (CS&S)](https://codeforscience.org/).
 
-### Daniela Saderi, Ph.D. – Co-Founder, Project Director
+#### Daniela Saderi, Ph.D. – Co-Founder, Project Director
 ![Daniela](/assets/images/daniela_bw_small.jpg)
 
 Daniela was a Mozilla Fellow for Science in 2018/2019. She has recently earned a Ph.D. in neuroscience at Oregon Health and Science University, in Portland OR, USA. During her time as a student, she became increasingly interested in how open practices can be used to empower early-career researchers in taking ownership over their work, and to facilitate collaborations within and across teams. Daniela enjoys cooking and eating good vegetarian food (she is Italian, after all!), rock climbing, and reading biographies and up-lifting books with her two black cats on her lap.  
 Email: [daniela@prereview.org](daniela@prereview.org)
 
-### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Partnerships Lead  
+#### Samantha Hindle, Ph.D. – Co-Founder, Peer Review Training and Partnerships Lead  
 ![Sam](/assets/images/sam_bw_small.jpg)
 
 Sam is the Content Lead at [bioRxiv](https://www.biorxiv.org/) - the leading preprint server for the life sciences - where she guides and supports the editorial team, helps to implement innovative updates to the server, and engages in advocacy efforts to promote equity in access to scientific discoveries through preprints. At PREreview she manages the peer review training program and resource generation, and is the primary lead for stakeholder relationships. Sam is also a Neuroscientist and master of _Drosophila_ brain dissections. When she is not immersed in the world of preprints, she will likely have her camera in hand trying to frame a beautiful landscape scene, or reflecting on ways of being more present and other-centered.
 Email: [sam@prereview.org](sam@prereview.org)
 
 
-### Monica Granados, Ph.D. – Community Building and Outreach Lead  
+#### Monica Granados, Ph.D. – Community Building and Outreach Lead  
 ![Monica](/assets/images/monica_bw_small.png)
 
 Monica joined the PREreview team in January 2018, first as a member of the Advisory Committee, and then as the lead of community building and outreach. She is a Mitacs Canadian Science Policy Fellow working as a Policy Analyst at Environment and Climate Change Canada in open science.
@@ -63,7 +67,7 @@ systems and, most importantly, to provide recommendations to decision makers and
 scientists how to use improv skills as a way to better communicate their science.
 Email: [monica@prereview.org](monica@prereview.org)
 
-# Advisory Committee
+## Advisory Committee
 
 **Prachee Avasthi, Assistant Professor at the University of Kansas Medical Center**  
 Prachee is an Assistant Professor in the Anatomy and Cell Biology Department and Ophthalmology Department at the University of Kansas Medical Center, Kansas City. Her laboratory studies the formation and regulation of ciliary structures using Chlamydomonas reinhardtii and mammalian cell culture. Passionate about open science, Prachee sits on the Board of Directors for the Open Access journal eLife and the non-profit organization ASAPbio. She has also lead an excellent course, “Analysis of Scientific Papers”, in which she taught students how to write peer reviews and critically evaluate scientific manuscripts using preprints.
@@ -81,17 +85,17 @@ Jessica is Director of ASAPbio, a scientist-driven non-profit working to promote
 Lenny is the CEO and Co-Founder of protocols.io, an open access repository for sharing research methods. Lenny has over a decade of computational and experimental biology experience. He did his graduate studies at UC Berkeley and finished his postdoctoral research at MIT. Lenny has a strong passion for sharing science and improving research efficiency through technology.
 
 
-# Fiscal Sponsor
+## Fiscal Sponsor
 
 [Code for Science & Society (CS&S)](https://codeforscience.org/) is our fiscal sponsor. CS&S provides administrative and strategic resources to project leads to support them in developing innovative technologies that benefit humanity. CS&S supports PREreview by assisting in managing partnerships with scientists and institutions, connecting with the larger open scholarship community, fundraising, as well as hiring and management of staff.
 
-# Funders
+## Funders
 
 This new PREreview platform was funded by the [Alfred P. Sloan Foundation](https://sloan.org/grant-detail/8729) and [Mozilla](https://foundation.mozilla.org/en/) via Daniela's Mozilla Fellowship 2018/2019.
 
 We also received funding from the [Wellcome Trust](https://wellcome.ac.uk/funding/schemes/open-research-fund) for a project in collaboration with the non-profit organization [Outbreak Science](http://outbreakscience.org/). We are currently developing an extension of the PREreview platform to allow for the rapid review of preprints in the context of public health crises.
 
-# Contact
+## Contact
 
 For any questions or concerns, or to report a violation of the Code of Conduct,
 please don't hesitate to contact us at [contact@prereview.org](contact@prereview.org).
@@ -104,7 +108,7 @@ Follow us on Twitter [@PREreview_](https://twitter.com/PREreview_).
 
 Join us on [Slack](https://join.slack.com/t/prereview/shared_invite/enQtNzYzNDE5NTE3MDYxLWU5ZmIzMmI4OGVhMWMwY2I5ZTllM2JhYzNmMTBkMzBiZWUzOGEzMzQ3ZWY1MDRiNzA2NDRjYWE1MmE5MGI3MDM). PREreview Code of Conduct applies.
 
-## References
+### References
 <sup>1</sup>Ronald D. Vale. Accelerating scientific publication in biology. Proceedings of the National Academy of Sciences 112, 13439–13446 Proceedings of the National Academy of Sciences, 2015  
 <sup>2</sup>Samantha Hindle, Daniela Saderi. Preprint Journal Clubs: Your Opinions Revealed. Authorea. November 29, 2017. DOI: https://doi.org/10.22541/au.151193754.44459059.  
 <sup>3</sup>Helmer, Markus, Manuel Schottdorf, Andreas Neef, and Demian Battaglia. 2017. “Gender Bias in Scholarly Peer Review.” eLife 6 (March). https://doi.org/10.7554/eLife.21718.  
