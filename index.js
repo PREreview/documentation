@@ -3,8 +3,9 @@ var path = require('path')
 
 var remark = require('remark')
 var recommended = require('remark-preset-lint-recommended')
+var toc = require('remark-toc')
 var html = require('remark-html')
-var pipeline = remark().use(recommended).use(html)
+var pipeline = remark().use(recommended).use(toc).use(html)
 
 var rootdir = __dirname
 var outdir = path.join(__dirname, 'dist')

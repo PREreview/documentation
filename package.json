@@ -25,6 +25,7 @@
   "devDependencies": {
     "remark": "^11.0.1",
     "remark-html": "^10.0.0",
-    "remark-preset-lint-recommended": "^3.0.3"
+    "remark-preset-lint-recommended": "^3.0.3",
+    "remark-toc": "^6.0.0"
   }
 }
