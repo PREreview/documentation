@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ## Our Pledge  
-In the interest of fostering an open and  welcoming environment we, as contributors and maintainers, pledge to making participation 
+In the interest of fostering an open and welcoming environment we, as contributors and maintainers, pledge to making participation 
 in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender 
 identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 We believe it is our duty as scientists at any level of our career to contribute to scientific evaluation in the form of peer review. 
@@ -23,7 +23,7 @@ This Code of Conduct applies to PREreview members contributing directly on this 
 ## Reporting Code of Conduct violations
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported personally by contacting the PREreview leadership team at **[contact@prereview.org](contact@prereview.org)**, or anonymously by filling out **[this anonymous form](https://forms.gle/a4x3TX2D2XRRN7Wo6)**. 
 
-An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview (see below for more examples of unacceptable behavior). All complaints will be reviewed and investigated, and will  result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the person that reports an incident. Further details of specific enforcement policies may be posted separately.
+An example of unacceptable behavior includes, but is not limited to, a rude and/or destructive comment appearing in a PREreview (see below for more examples of unacceptable behavior). All complaints will be reviewed and investigated, and will result in a response that is deemed necessary and appropriate to the circumstances. The PREreview team is obligated to maintain confidentiality with regard to the person that reports an incident. Further details of specific enforcement policies may be posted separately.
 PREreview members who do not follow and PREreview team members who do not enforce the Code of Conduct in good faith may face temporary 
 or permanent repercussions as determined by other members of the project's leadership.
 
@@ -58,9 +58,9 @@ A competing interest can be financial or non-financial, professional, or persona
 
 Competing interests matter because they can introduce perceived or actual bias in the evaluation of the preprint that can have repercussions all the way to the journal acceptance of that manuscript. 
 
-To read more about competing interests in peer review, please refer to the [PLoS Reviwer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your possible competing interest in relation to a manuscript you wish to review or comment. 
+To read more about competing interests in peer review, please refer to the [PLoS Reviewer Center's resources](http://reviewers.plos.org/resources/competing-interests-for-reviewers/). They provide a very useful checklist for you to self-evaluate your possible competing interest in relation to a manuscript you wish to review or comment. 
 
-**If you find that you have a potential conflifct with the authors, or the organization to which the author(s) is affiliated, please do disclose it in your PREreview. A failure in disclosing a competing interest is considered a violation of the PREreview Code of Conduct and will be treated accordingly.**
+**If you find that you have a potential conflict with the authors, or the organization to which the author(s) is affiliated, please do disclose it in your PREreview. A failure in disclosing a competing interest is considered a violation of the PREreview Code of Conduct and will be treated accordingly.**
 
 
 The content of this page was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and from [PLoS Peer Reviewer Center](http://reviewers.plos.org/). If you have questions, feedback (please constructive only!), or suggestions on how to improve it, please contact us at contact@prereview.org. 
