@@ -15,9 +15,9 @@ Please report any unacceptable behavior to contact@prereview.org or by filling [
 [@PREreview_](https://twitter.com/PREreview_) handle. 
 
 * Join our [Slack](https://join.slack.com/t/prereview/shared_invite/enQtNzYzNDE5NTE3MDYxLWU5ZmIzMmI4OGVhMWMwY2I5ZTllM2JhYzNmMTBkMzBiZWUzOGEzMzQ3ZWY1MDRiNzA2NDRjYWE1MmE5MGI3MDM). 
-PREreviw [Code of Conudct](https://v2.prereview.org/docs/code_of_conduct) applies.
+PREreviw [Code of Conudct](https://content.prereview.org/coc) applies.
 
-* Start a PREreview journal club, either local or remote. [Here](https://v2.prereview.org/docs/resources) are some tips.
+* Start a PREreview journal club, either local or remote. [Here](https://content.prereview.org/resources) are some tips.
 
 * Help us develop the PREreview mentorship program. This program is under development. Please contact us at contact@prereview.org or raise an issue here with the label "Mentoring" and we will get back to you.
 
